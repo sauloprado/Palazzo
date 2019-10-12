@@ -1,0 +1,9 @@
+<meta name="title" content="Myícone faça parte desta ideia!"/>
+<meta name="description" content="Myícone - Mundo dos Ícones, Acadêmico, <br>
+Download, E-Commerce, Futebol, Games, Google, Loja Virtual, Negócios">
+<meta name="keywords" content="MY, my, myícone, MYÍCONE, Mundo dos Ícones, Acadêmico, Download, Futebol, Games, Google, Negócios">
+<meta name="author" content="Myícone DeveloperS">
+<meta name="geography" content="Campinas São Paulo" />
+<meta name="robots" content="ALL" />
+<meta name="language" content="pt-br" />
+<meta name="location" content="São Paulo, Brazil" />

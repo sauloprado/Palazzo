@@ -1,0 +1,30 @@
+ABRIR HTML
+
+<a title="UpInside Tecnologia" href="http://www.upinside.com.br" rel="shadowbox">UpInside</a>
+
+ABRIR VIMEO VÍDEO
+
+<a title="UpInside Tecnologia" href="http://vimeo.com/moogaloop.swf?clip_id=10614588" rel="shadowbox;width=600;height=450">Vimeo</a>
+
+ABRIR YOUTUBE VÍDEO
+
+<a title="UpInside Tecnologia" href="http://www.youtube.com/v/VOayJ-QxfL4&hl=pt_BR" rel="shadowbox;width=600;height=450">Youtube</a>
+
+ABRIR IMAGEM
+
+<a title="UpInside Tecnologia" href="upinside.jpg" rel="shadowbox">
+
+ABRIR GALERIA DE IMAGEM
+
+<a title="UpInside Tecnologia" href="upinside1.jpg" rel="shadowbox[vocation]">Img1</a>
+<a title="UpInside Tecnologia" href="upinside2.jpg" rel="shadowbox[vocation]">Img2</a>
+<a title="UpInside Tecnologia" href="upinside3.jpg" rel="shadowbox[vocation]">Img3</a>
+
+ABRIR DIV
+
+<a rel="shadowbox" href="#upinside">Abrir Div</a>
+ <div id="upinside" style="display:none;">
+ <div id="up_content" style="color:#FFF; padding:10px;">
+ Todo conteúdo a mostrar na div da galeria vai aqui!
+ </div><!--upinside-->
+</div><!--up_content-->

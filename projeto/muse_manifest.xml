@@ -1,0 +1,27 @@
+<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1411827218137">
+  <folder name="css">
+    <file name="site_global.css" crc="97396771"/>
+    <file name="master_a-mestre.css" crc="3946931692" ref="index"/>
+    <file name="index.css" crc="4238543529" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index"/>
+    <file name="museutils.js" crc="4136605575" ref="index"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index"/>
+    <file name="webpro.js" crc="420478120" ref="index"/>
+    <file name="musewpslideshow.js" crc="480958572" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="184401257" ref="index"/>
+    <file name="touchswipe.js" crc="60020316" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="palazzo_logo_novo.png" crc="4267878062" ref="index"/>
+    <file name="palazzo_01_colegio.jpg" crc="394599754" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="palazzo_02_rds.jpg" crc="317940003" ref="index"/>
+    <file name="palazzo_03_iescamp.jpg" crc="384104114" ref="index"/>
+    <file name="palazzo_04_eptv.jpg" crc="361445769" ref="index"/>
+    <file name="palazzo_05_soberana.jpg" crc="4043190080" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4144084843" mt="1411827198820" redirect="true"/>
+</manifest>

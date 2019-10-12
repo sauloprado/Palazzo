@@ -1,0 +1,80 @@
+﻿/* Você pode alterar este CSS para dar SmoothDivScroll seu próprio look'n'feel */
+
+/* Hotspot esquerda Invisible */
+div.scrollingHotSpotLeft
+{
+/* Os hotspots ter uma largura mínima de 100 pixels e se houver espaço o irá crescer
+     e ocupar 15% da área deslocável (30% combinado). Ajustá-lo ao seu próprio gosto. */
+	min-width: 30px;
+	width: 6%;
+	height: 20%;
+	margin-top:190px;
+/* Não existe uma imagem de fundo grande e é usado para resolver alguns problemas que eu experimentei
+     no Internet Explorer 6. */
+	background-image: url(../images/big_transparent.gif);
+	background-repeat: repeat;
+	background-position: center center;
+	position: absolute;
+	z-index: 200;
+	left: 0;
+	/* O primeiro url é para o Firefox e outros navegadores, o segundo é para Internet Explorer */
+	cursor: url(../images/cursors/cursor_arrow_left.cur), url(images/cursors/cursor_arrow_left.cur),w-resize;
+}
+
+/* Visible left hotspot */
+div.scrollingHotSpotLeftVisible
+{
+	background-image: url(../images/arrow_left.png)	;				
+	background-color: #000;
+	background-repeat: no-repeat;
+	opacity: 0.35; /s* Configuração de opacidade CSS3 Standard */
+	-moz-opacity: 0.35; /* Opacidade para versões muito antigas do Mozilla Firefox (0.9 ou mais) */
+	filter: alpha(opacity = 35); /* Opacidade para o Internet Explorer. */
+	zoom: 1; /* Trigger "hasLayout" no Internet Explorer 6 ou versões mais antigas */
+}
+
+/* Hotspot direito Invisible */
+div.scrollingHotSpotRight
+{
+	min-width: 30px;
+	width: 6%;
+	height: 20%;
+	margin-top:190px;
+	background-image: url(../images/big_transparent.gif);
+	background-repeat: repeat;
+	background-position: center center;
+	position: absolute;
+	z-index: 200;
+	right: 0;
+	cursor: url(../images/cursors/cursor_arrow_right.cur), url(images/cursors/cursor_arrow_right.cur),e-resize;
+}
+
+/* Hotspot direito visível */
+div.scrollingHotSpotRightVisible
+{
+	background-image:url(../images/arrow_right.png);
+	background-color: #000;
+	background-repeat: no-repeat;
+	opacity: 0.35;
+	filter: alpha(opacity = 35);
+	-moz-opacity: 0.35;
+	zoom: 1;
+}
+
+/* O invólucro de rolagem é sempre a mesma largura e altura que o elemento que contém (div).
+    Overflow está escondido, porque você não quer mostrar a toda a área de rolagem.
+*/
+div.scrollWrapper
+{
+	position: relative;
+	overflow: hidden;
+	width: 800px;
+	height: 460px;
+}
+
+div.scrollableArea
+{
+	width: 800px;
+	height: 460px;
+	background-image:url(../../galeria_mini/bg_galeria.png);
+}

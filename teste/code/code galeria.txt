@@ -1,0 +1,60 @@
+			<div id="makeMeScrollable">
+			<div class="scrollingHotSpotLeft"></div>
+			<div class="scrollingHotSpotRight"></div>
+			<div class="scrollWrapper">
+    
+			<div class="scrollableArea">
+        
+	    <a title="Palazzo" a href="img/galeria/11.jpg" rel="shadowbox"><img src="img/galeria_mini/11.png" alt="Demo image" id="startAtMe" /></a>
+	    <a title="Palazzo" a href="img/galeria/12.jpg" rel="shadowbox"><img src="img/galeria_mini/12.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/13.jpg" rel="shadowbox"><img src="img/galeria_mini/13.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/14.jpg" rel="shadowbox"><img src="img/galeria_mini/14.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/15.jpg" rel="shadowbox"><img src="img/galeria_mini/15.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/16.jpg" rel="shadowbox"><img src="img/galeria_mini/16.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/17.jpg" rel="shadowbox"><img src="img/galeria_mini/17.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/18.jpg" rel="shadowbox"><img src="img/galeria_mini/18.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/20.jpg" rel="shadowbox"><img src="img/galeria_mini/20.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/21.jpg" rel="shadowbox"><img src="img/galeria_mini/21.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/22.jpg" rel="shadowbox"><img src="img/galeria_mini/22.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/23.jpg" rel="shadowbox"><img src="img/galeria_mini/23.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/24.jpg" rel="shadowbox"><img src="img/galeria_mini/24.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/25.jpg" rel="shadowbox"><img src="img/galeria_mini/25.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/26.jpg" rel="shadowbox"><img src="img/galeria_mini/26.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/27.jpg" rel="shadowbox"><img src="img/galeria_mini/27.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/28.jpg" rel="shadowbox"><img src="img/galeria_mini/28.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/29.jpg" rel="shadowbox"><img src="img/galeria_mini/29.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/30.jpg" rel="shadowbox"><img src="img/galeria_mini/30.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/31.jpg" rel="shadowbox"><img src="img/galeria_mini/31.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/32.jpg" rel="shadowbox"><img src="img/galeria_mini/32.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/34.jpg" rel="shadowbox"><img src="img/galeria_mini/34.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/35.jpg" rel="shadowbox"><img src="img/galeria_mini/35.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/37.jpg" rel="shadowbox"><img src="img/galeria_mini/37.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/38.jpg" rel="shadowbox"><img src="img/galeria_mini/38.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/39.jpg" rel="shadowbox"><img src="img/galeria_mini/39.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/40.jpg" rel="shadowbox"><img src="img/galeria_mini/40.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/41.jpg" rel="shadowbox"><img src="img/galeria_mini/41.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/42.jpg" rel="shadowbox"><img src="img/galeria_mini/42.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/43.jpg" rel="shadowbox"><img src="img/galeria_mini/43.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/44.jpg" rel="shadowbox"><img src="img/galeria_mini/44.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/45.jpg" rel="shadowbox"><img src="img/galeria_mini/45.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/46.jpg" rel="shadowbox"><img src="img/galeria_mini/46.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/50.jpg" rel="shadowbox"><img src="img/galeria_mini/50.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/51.jpg" rel="shadowbox"><img src="img/galeria_mini/51.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/52.jpg" rel="shadowbox"><img src="img/galeria_mini/52.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/53.jpg" rel="shadowbox"><img src="img/galeria_mini/53.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/54.jpg" rel="shadowbox"><img src="img/galeria_mini/54.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/55.jpg" rel="shadowbox"><img src="img/galeria_mini/55.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/56.jpg" rel="shadowbox"><img src="img/galeria_mini/56.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/57.jpg" rel="shadowbox"><img src="img/galeria_mini/57.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/58.jpg" rel="shadowbox"><img src="img/galeria_mini/58.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/59.jpg" rel="shadowbox"><img src="img/galeria_mini/59.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/60.jpg" rel="shadowbox"><img src="img/galeria_mini/60.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/61.jpg" rel="shadowbox"><img src="img/galeria_mini/61.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/62.jpg" rel="shadowbox"><img src="img/galeria_mini/62.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/63.jpg" rel="shadowbox"><img src="img/galeria_mini/63.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/64.jpg" rel="shadowbox"><img src="img/galeria_mini/64.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/65.jpg" rel="shadowbox"><img src="img/galeria_mini/65.png" alt="Demo image" /></a>
+            <a title="Palazzo" a href="img/galeria/66.jpg" rel="shadowbox"><img src="img/galeria_mini/66.png" alt="Demo image" /></a>
+				</div>
+                </div>
+                </div>

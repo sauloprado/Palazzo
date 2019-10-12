@@ -1,0 +1,14 @@
+.alert {
+	background: #fff6bf;
+	text-align: center;
+	padding: 20px;
+	border-top: 3px solid #ffd324;
+	border-bottom: 3px solid #ffd324;
+	border-radius: 0;
+	margin: 0 auto;
+}
+.sliderr, .portfolio-carousel .preve, .portfolio-carousel .nexte, .knob {display: none}
+.anyClass li {float: left;margin: 6px 8px;
+.detailes {height: 14%}
+
+

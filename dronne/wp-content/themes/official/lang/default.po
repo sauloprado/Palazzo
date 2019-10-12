@@ -1,0 +1,5690 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Official Theme v1\n"
+"POT-Creation-Date: 2014-09-12 19:59+0330\n"
+"PO-Revision-Date: 2014-09-12 19:59+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13 searchform.php:2 functions/wooconfig.php:153
+msgid "Search..."
+msgstr ""
+
+#: 404.php:19
+msgid "Back To Homepage"
+msgstr ""
+
+#: blog-2-columns.php:56 blog-3-columns.php:56 blog-both-sidebars-left.php:63
+#: blog-both-sidebars-right.php:63 blog-both-sidebars.php:74 blog-large.php:76
+#: blog-medium.php:75 blog-small.php:75 search.php:170 single.php:89
+msgid "Not Found"
+msgstr ""
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:46
+msgid "LEAVE A REPLY"
+msgstr ""
+
+#: comments.php:68
+msgid "Your email address will not be published. Required fields are marked"
+msgstr ""
+
+#: comments.php:70
+msgid "Submit comment"
+msgstr ""
+
+#: forums.php:22 page-left-sidebar.php:28 page-right-sidebar.php:21
+#: page.php:18 single.php:97
+msgid "Pages: "
+msgstr ""
+
+#: functions.php:101 functions/plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:102 functions/plugin-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:103 functions/plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:104
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:115 functions/plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:116 functions/plugin-activation.php:212
+#: functions/plugin-activation.php:1951
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:117
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:282
+msgid "Widgets for the Blog sidebar."
+msgstr ""
+
+#: functions.php:293
+msgid "Widgets for the Blog second sidebar."
+msgstr ""
+
+#: functions.php:304
+msgid "Widgets for the Pages sidebar."
+msgstr ""
+
+#: functions.php:315
+msgid "Widgets for the Portfolio Details sidebar."
+msgstr ""
+
+#: functions.php:346
+msgid "Widgets for the Search Page sidebar."
+msgstr ""
+
+#: functions.php:358
+msgid "Widgets for the Shop Page sidebar."
+msgstr ""
+
+#: functions.php:527
+msgid "We are currently in maintenance mode, please check back shortly."
+msgstr ""
+
+#: options.php:71
+msgid "Layout"
+msgstr ""
+
+#: options.php:76
+msgid "Layout Style"
+msgstr ""
+
+#: options.php:77
+msgid ""
+"Select Website layout style: Wide, Boxed or Boxed with Margin on top and "
+"bottom"
+msgstr ""
+
+#: options.php:84
+msgid "Responsive?"
+msgstr ""
+
+#: options.php:85
+msgid "Turn On/Off the Responsive"
+msgstr ""
+
+#: options.php:90
+msgid "Zoom on Small Devices?"
+msgstr ""
+
+#: options.php:91
+msgid "Turn On/Off the Zoom ability on small devices"
+msgstr ""
+
+#: options.php:97
+msgid "Nice Scroll?"
+msgstr ""
+
+#: options.php:98
+msgid "Turn On/Off the Nice Scroll"
+msgstr ""
+
+#: options.php:103
+msgid "Animate?"
+msgstr ""
+
+#: options.php:104
+msgid "Turn On/Off the Animation Effect"
+msgstr ""
+
+#: options.php:110
+msgid ""
+"Boxed & Blocked Layout Options (only work when Boxed or Blocked Layouts is "
+"selected)"
+msgstr ""
+
+#: options.php:114
+msgid "Boxed and Blocked Shadow"
+msgstr ""
+
+#: options.php:115
+msgid "Turn On/Off the Boxed and Blocked Shadow"
+msgstr ""
+
+#: options.php:120
+msgid "Blocked Rounded Corners"
+msgstr ""
+
+#: options.php:121
+msgid "Turn On/Off the Blocked Rounded Corners"
+msgstr ""
+
+#: options.php:127
+msgid "Custom Background Image"
+msgstr ""
+
+#: options.php:128
+msgid "Upload Background Image or paste Image URL"
+msgstr ""
+
+#: options.php:134
+msgid "Background Repeat"
+msgstr ""
+
+#: options.php:135
+msgid "Select Background Repeat Option for the Background."
+msgstr ""
+
+#: options.php:140
+msgid "Stretch Image"
+msgstr ""
+
+#: options.php:140
+msgid "Repeat"
+msgstr ""
+
+#: options.php:140 admin/options-sanitize.php:241
+msgid "No Repeat"
+msgstr ""
+
+#: options.php:140
+msgid "Repeat Horizontal (X)"
+msgstr ""
+
+#: options.php:140
+msgid "Repeat Vertical (Y)"
+msgstr ""
+
+#: options.php:161
+msgid "Background Patterns"
+msgstr ""
+
+#: options.php:170
+msgid "Boxed Layout Frames"
+msgstr ""
+
+#: options.php:190
+msgid "Frames"
+msgstr ""
+
+#: options.php:191
+msgid "Select frame for boxed style"
+msgstr ""
+
+#: options.php:195
+msgid "NOTE: Frames only works on Boxed layout"
+msgstr ""
+
+#: options.php:200
+msgid "SEO Settings"
+msgstr ""
+
+#: options.php:206
+msgid "Meta Description"
+msgstr ""
+
+#: options.php:207
+msgid "Description about your website (Good for SEO)"
+msgstr ""
+
+#: options.php:212
+msgid "Meta Keywords"
+msgstr ""
+
+#: options.php:213
+msgid "Keywords about your website, Separate them with comma ( , )"
+msgstr ""
+
+#: options.php:222
+msgid "Meta Robots"
+msgstr ""
+
+#: options.php:223
+msgid ""
+"Should the robots index your site or not? Maybe you don`t want to let robots "
+"follow all your pages/folders?"
+msgstr ""
+
+#: options.php:230
+msgid "Apple Devices Icons"
+msgstr ""
+
+#: options.php:234
+msgid "Apple iPhone Icon"
+msgstr ""
+
+#: options.php:235
+msgid ""
+"This is a hidden image that Apple iPhone use this icon as a shortcut icon. "
+"(57x57 pixel .PNG or .JPG format)"
+msgstr ""
+
+#: options.php:240
+msgid "Apple iPhone Retina Icon"
+msgstr ""
+
+#: options.php:241
+msgid ""
+"This is a hidden image that Retina Apple iPhone use this icon as a shortcut "
+"icon. (114x114 pixel .PNG or .JPG format)"
+msgstr ""
+
+#: options.php:246
+msgid "Apple iPad Icon"
+msgstr ""
+
+#: options.php:247
+msgid ""
+"This is a hidden image that Apple iPad use this icon as a shortcut icon. "
+"(72x72 pixel .PNG or .JPG format)"
+msgstr ""
+
+#: options.php:253
+msgid "Apple iPad Retina Icon"
+msgstr ""
+
+#: options.php:254
+msgid ""
+"This is a hidden image that Retina Apple iPad use this icon as a shortcut "
+"icon. (144x144 pixel .PNG or .JPG format)"
+msgstr ""
+
+#: options.php:263
+msgid "Header"
+msgstr ""
+
+#: options.php:268
+msgid "Custom Header Background Image"
+msgstr ""
+
+#: options.php:269
+msgid "Upload Header Background Image or paste Image URL"
+msgstr ""
+
+#: options.php:275
+msgid "Sticky Menu?"
+msgstr ""
+
+#: options.php:276
+msgid "Turn On/Off the Sticky Menu"
+msgstr ""
+
+#: options.php:282
+msgid "Header Top Line"
+msgstr ""
+
+#: options.php:283
+msgid "Header top line height, if you want to remove it please select 0"
+msgstr ""
+
+#: options.php:308
+msgid "Header Style"
+msgstr ""
+
+#: options.php:315
+msgid "Main Menu Margin Top"
+msgstr ""
+
+#: options.php:316
+msgid ""
+"Enter Main Menu Margin from Top (Default is 40px) only works on Header style "
+"2,5,9,10,12"
+msgstr ""
+
+#: options.php:323
+msgid "Big Header Opacity"
+msgstr ""
+
+#: options.php:324
+msgid "Please select Big Header Opacity between 0 to 100"
+msgstr ""
+
+#: options.php:331
+msgid "Small Header Opacity"
+msgstr ""
+
+#: options.php:332
+msgid "Please select Small Header Opacity between 0 to 100"
+msgstr ""
+
+#: options.php:340
+msgid "Header Shadows?"
+msgstr ""
+
+#: options.php:341
+msgid "Turn On/Off the header shadow effects"
+msgstr ""
+
+#: options.php:346
+msgid "Sub Menu Opacity"
+msgstr ""
+
+#: options.php:347
+msgid "Please select Sub Menu Opacity between 0 to 100"
+msgstr ""
+
+#: options.php:355 options.php:358
+msgid "Logo"
+msgstr ""
+
+#: options.php:359
+msgid ""
+"Use the upload button to upload your site's logo and then click '<strong>Use "
+"this image</strong>."
+msgstr ""
+
+#: options.php:364
+msgid "Logo Width"
+msgstr ""
+
+#: options.php:365
+msgid "Enter your logo width (Default is 220px)"
+msgstr ""
+
+#: options.php:371
+msgid "Logo Margin Top"
+msgstr ""
+
+#: options.php:372
+msgid "Enter your logo Margin from Top (Default is 30px)"
+msgstr ""
+
+#: options.php:378
+msgid "Logo Margin Bottom"
+msgstr ""
+
+#: options.php:379
+msgid "Enter your logo Margin from Bottom (Default is 30px)"
+msgstr ""
+
+#: options.php:385
+msgid "Logo Width in Sticky"
+msgstr ""
+
+#: options.php:386
+msgid "Enter your logo Width in Sticky Menu (Default is 170px)"
+msgstr ""
+
+#: options.php:392
+msgid "Logo Sticky Margin"
+msgstr ""
+
+#: options.php:393
+msgid "Enter your logo Margin from Bottom (Default is 5px 0px)"
+msgstr ""
+
+#: options.php:400
+msgid "Custom Favicon"
+msgstr ""
+
+#: options.php:401
+msgid "Site favicon. (32x32 pixel or 16x16 pixel .PNG or .ICO file)"
+msgstr ""
+
+#: options.php:407
+msgid "Navigation Menu"
+msgstr ""
+
+#: options.php:411
+msgid "Show Search?"
+msgstr ""
+
+#: options.php:412
+msgid "Turn On/Off the Search bar on top right"
+msgstr ""
+
+#: options.php:417
+msgid "Show Menu Separator"
+msgstr ""
+
+#: options.php:418
+msgid "Turn On/Off the Menu Separator"
+msgstr ""
+
+#: options.php:424 options.php:428
+msgid "Email and Call Us Text"
+msgstr ""
+
+#: options.php:429
+msgid "This text show in the top header area"
+msgstr ""
+
+#: options.php:435 options.php:1251
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:277
+#: functions/vc/vc-custom.php:683
+msgid "Margin Top"
+msgstr ""
+
+#: options.php:436
+msgid ""
+"Enter Main Email and Call Us Margin from Top (Default is 56px) only works on "
+"Header style 1,3,6,7,8"
+msgstr ""
+
+#: options.php:443
+msgid "Breadcrubs Area"
+msgstr ""
+
+#: options.php:446
+msgid "Default Breadcrumbs Background Image"
+msgstr ""
+
+#: options.php:447
+msgid ""
+"Upload Breadcrumbs Background Image or paste Image URL, if you add "
+"Breadcrumb Image to your page advanced settings that will override this "
+"default image."
+msgstr ""
+
+#: options.php:452
+msgid "Breadcrumbs Height"
+msgstr ""
+
+#: options.php:453
+msgid "Breadcrumbs Height (Default is 110px)"
+msgstr ""
+
+#: options.php:461
+msgid "Extra Panel"
+msgstr ""
+
+#: options.php:464
+msgid "Show Top Extra Panel?"
+msgstr ""
+
+#: options.php:465
+msgid "Turn On/Off the Top Extra Panel"
+msgstr ""
+
+#: options.php:470
+msgid "Arrow Button Align"
+msgstr ""
+
+#: options.php:471
+msgid "Select extra panel arrow button alignment"
+msgstr ""
+
+#: options.php:477 options.php:793
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:409
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:438
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:721
+msgid "Left"
+msgstr ""
+
+#: options.php:478 options.php:794
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:723
+msgid "Center"
+msgstr ""
+
+#: options.php:479 options.php:795
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:410
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:436
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:722
+msgid "Right"
+msgstr ""
+
+#: options.php:484
+msgid "Number of Extra Panel Columns"
+msgstr ""
+
+#: options.php:485
+msgid "Select how many columns you want to display in the Extra Panel widgets."
+msgstr ""
+
+#: options.php:496
+msgid "WPML Settings"
+msgstr ""
+
+#: options.php:500
+msgid "Show WPML Language Selector"
+msgstr ""
+
+#: options.php:501
+msgid "Turn On/Off the WPML Language Selector on top right"
+msgstr ""
+
+#: options.php:507
+msgid "Show WPML Language Selector in which Menu?"
+msgstr ""
+
+#: options.php:508
+msgid "Select your menu you want to show WPML Language Selector in."
+msgstr ""
+
+#: options.php:517
+msgid "WPML Language Selector Style?"
+msgstr ""
+
+#: options.php:518
+msgid "Select WPML Language Selector style."
+msgstr ""
+
+#: options.php:537
+msgid "Colors"
+msgstr ""
+
+#: options.php:542
+msgid "Dark Style?"
+msgstr ""
+
+#: options.php:543
+msgid "Turn On/Off the Dark style"
+msgstr ""
+
+#: options.php:550 options.php:627 options.php:756 options.php:1013
+msgid "Note"
+msgstr ""
+
+#: options.php:553
+msgid ""
+"For Live Colors settings please go to <a href=\"customize.php\">Theme "
+"Customize</a> &gt; <strong>Colors</strong> "
+msgstr ""
+
+#: options.php:559
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:229
+msgid "Typography"
+msgstr ""
+
+#: options.php:563
+msgid "Body font."
+msgstr ""
+
+#: options.php:564
+msgid "Text font:"
+msgstr ""
+
+#: options.php:570
+msgid "Menu font."
+msgstr ""
+
+#: options.php:571
+msgid "Menu font:"
+msgstr ""
+
+#: options.php:579
+msgid "Heading"
+msgstr ""
+
+#: options.php:583
+msgid "Header H1 font."
+msgstr ""
+
+#: options.php:584
+msgid "H1 font:"
+msgstr ""
+
+#: options.php:590
+msgid "Header H2 font."
+msgstr ""
+
+#: options.php:591
+msgid "H2 font:"
+msgstr ""
+
+#: options.php:597
+msgid "Header H3 font."
+msgstr ""
+
+#: options.php:598
+msgid "H3 font:"
+msgstr ""
+
+#: options.php:604
+msgid "Header H4 font."
+msgstr ""
+
+#: options.php:605
+msgid "H4 font:"
+msgstr ""
+
+#: options.php:611
+msgid "Header H5 font."
+msgstr ""
+
+#: options.php:612
+msgid "H5 font:"
+msgstr ""
+
+#: options.php:618
+msgid "Header H6 font."
+msgstr ""
+
+#: options.php:619
+msgid "H6 font:"
+msgstr ""
+
+#: options.php:630
+msgid ""
+"For Other Colors settings please <a href=\"customize.php\" >Click Here</a>  "
+msgstr ""
+
+#: options.php:637
+msgid "Blog Settings"
+msgstr ""
+
+#: options.php:642
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: options.php:643
+msgid "Choose which side you would like the sidebar to appear on the Blog."
+msgstr ""
+
+#: options.php:649
+msgid "Number of Blog items?"
+msgstr ""
+
+#: options.php:650
+msgid "Number of blog items per page in blog pages for pagination."
+msgstr ""
+
+#: options.php:658
+msgid "Blog Excerpt Length"
+msgstr ""
+
+#: options.php:659
+msgid ""
+"Default is 30 words. Used for blog page, archives, Tags, Category Search "
+"and ... "
+msgstr ""
+
+#: options.php:665
+msgid "Show Author avatar?"
+msgstr ""
+
+#: options.php:666
+msgid "This will display the author's avatar in the bottom of the bolg posts."
+msgstr ""
+
+#: options.php:671
+msgid "Show Read More button?"
+msgstr ""
+
+#: options.php:672
+msgid "This will display the Read More button in the blogs page."
+msgstr ""
+
+#: options.php:677
+msgid "Read More Button Text"
+msgstr ""
+
+#: options.php:678
+msgid ""
+"This is the text that will appear on the Blog \"More button\".  Default text "
+"is <strong>Read more &rsaquo;</strong>"
+msgstr ""
+
+#: options.php:680
+msgid "Read more &rsaquo;"
+msgstr ""
+
+#: options.php:684
+msgid "Blog Thumbnail Image Style"
+msgstr ""
+
+#: options.php:685
+msgid "Select blog thumbnail style "
+msgstr ""
+
+#: options.php:696
+msgid "Blog Details"
+msgstr ""
+
+#: options.php:700
+msgid "Show Author Info on Blog Details?"
+msgstr ""
+
+#: options.php:701
+msgid ""
+"This will display the Author Name &amp; Biography in the Blog Posts. You can "
+"edit the Author Biography under Users > Profiles."
+msgstr ""
+
+#: options.php:707 options.php:847
+msgid "Show Next and Previous buttons?"
+msgstr ""
+
+#: options.php:708
+msgid ""
+"This will display the next and previous Post links on blog details page."
+msgstr ""
+
+#: options.php:714 options.php:893
+msgid "Enable Comments?"
+msgstr ""
+
+#: options.php:715
+msgid "This will display the Comments in the Blog Posts."
+msgstr ""
+
+#: options.php:721
+msgid "Show Share Buttons in Blog Details?"
+msgstr ""
+
+#: options.php:722
+msgid "Turn On/Off the Share buttons in blog details"
+msgstr ""
+
+#: options.php:727 options.php:870
+msgid "Share Buttons Title"
+msgstr ""
+
+#: options.php:728
+msgid ""
+"The Title of share buttons box, Default is <strong>Share This Post</strong>"
+msgstr ""
+
+#: options.php:730
+msgid "Share This Post"
+msgstr ""
+
+#: options.php:736
+msgid "Portfolio Settings"
+msgstr ""
+
+#: options.php:742
+msgid "Portfolio slug"
+msgstr ""
+
+#: options.php:743
+msgid ""
+"Portfolio slug is URL friendly string that will shows in your portfolio "
+"details link."
+msgstr ""
+
+#: options.php:749
+msgid "Portfolio Page Name"
+msgstr ""
+
+#: options.php:750
+msgid "Portfolio Page Name."
+msgstr ""
+
+#: options.php:759
+msgid ""
+"After Changing the <strong>Portfolio Slug</strong> you should go to "
+"<strong>Settings</strong> > <strong>Permalinks</strong> and click on "
+"<strong>Save Changes</strong> to set the new slug."
+msgstr ""
+
+#: options.php:763
+msgid "Portfolio Filtering?"
+msgstr ""
+
+#: options.php:764
+msgid "Turn On/Off the Filtering Portfolio by Categories."
+msgstr ""
+
+#: options.php:778
+msgid "Filtering Button Style"
+msgstr ""
+
+#: options.php:786
+msgid "Filtering Button position"
+msgstr ""
+
+#: options.php:787
+msgid "Select portfolio buttons position"
+msgstr ""
+
+#: options.php:800
+msgid "Number of Portfolio items?"
+msgstr ""
+
+#: options.php:801
+msgid "Number of portfolio items per page in portfolio pages for pagination."
+msgstr ""
+
+#: options.php:807
+msgid "Portfolio Excerpt Length"
+msgstr ""
+
+#: options.php:808
+msgid "Default is 30 words. Used for Portfolio pages."
+msgstr ""
+
+#: options.php:815
+msgid "Show View Details button?"
+msgstr ""
+
+#: options.php:816
+msgid "This will display the Read More button in the Portfolio pages."
+msgstr ""
+
+#: options.php:821
+msgid "View Details Button Text"
+msgstr ""
+
+#: options.php:822
+msgid ""
+"This is the text that will appear on the Portfolio \"More button\".  Default "
+"text is <strong>View Details</strong>"
+msgstr ""
+
+#: options.php:824
+msgid "View Details"
+msgstr ""
+
+#: options.php:829
+msgid "Thumbnail Zoom Effect?"
+msgstr ""
+
+#: options.php:830
+msgid "Turn On/Off the Zoom Effect on hover of thumbnails."
+msgstr ""
+
+#: options.php:835
+msgid "Portfolio Details"
+msgstr ""
+
+#: options.php:839
+msgid "Portfolio Details Page Sidebar Position"
+msgstr ""
+
+#: options.php:840
+msgid ""
+"Choose which side you would like the sidebar to appear on the Portfolio "
+"Details page."
+msgstr ""
+
+#: options.php:848
+msgid ""
+"This will display the next and previous Project links on project Details "
+"page."
+msgstr ""
+
+#: options.php:854
+msgid "Show Share Buttons in Portfolio Details?"
+msgstr ""
+
+#: options.php:855
+msgid "Turn On/Off the Share buttons in Portfolio details"
+msgstr ""
+
+#: options.php:861
+msgid "Show Author Info on Project Details?"
+msgstr ""
+
+#: options.php:862
+msgid ""
+"This will display the Author Name & Biography in the Project Details page. "
+"You can edit the Author Biography under Users > Profiles."
+msgstr ""
+
+#: options.php:871
+msgid ""
+"The Title of share buttons box, Default is <strong>Share This Project</"
+"strong>"
+msgstr ""
+
+#: options.php:873
+msgid "Share This Project"
+msgstr ""
+
+#: options.php:878
+msgid "Show Related Projects on Portfolio Detail?"
+msgstr ""
+
+#: options.php:879
+msgid "Related projects show in the bottom of project details page."
+msgstr ""
+
+#: options.php:884
+msgid "Related Projects Title"
+msgstr ""
+
+#: options.php:885
+msgid ""
+"The Title of Related Projects, Default is <strong>Related Projects</strong>"
+msgstr ""
+
+#: options.php:887
+msgid "Related Projects"
+msgstr ""
+
+#: options.php:894
+msgid "This will display the Comments in the Portfolio details page."
+msgstr ""
+
+#: options.php:901
+msgid "Project details show style"
+msgstr ""
+
+#: options.php:902
+msgid "Select project details style to show in project details page."
+msgstr ""
+
+#: options.php:908
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:955
+msgid "Simple"
+msgstr ""
+
+#: options.php:909
+msgid "Accordion Style"
+msgstr ""
+
+#: options.php:918
+msgid "Woocommerce"
+msgstr ""
+
+#: options.php:923
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: options.php:924
+msgid ""
+"Choose which side you would like the sidebar to appear on the shop page. "
+"(Shop Page Layout)"
+msgstr ""
+
+#: options.php:931
+msgid "Number of products columns"
+msgstr ""
+
+#: options.php:932
+msgid "Select how many columns you want to display in the shop page."
+msgstr ""
+
+#: options.php:939
+msgid "Number of shop items?"
+msgstr ""
+
+#: options.php:940
+msgid "Number of shop items per page in shop pages for pagination."
+msgstr ""
+
+#: options.php:948
+msgid "Shop Page Title"
+msgstr ""
+
+#: options.php:949
+msgid "Please enter your shop page title"
+msgstr ""
+
+#: options.php:956
+msgid "Breadcrumbs Background Image"
+msgstr ""
+
+#: options.php:957
+msgid ""
+"Upload Breadcrumbs Background Image or paste Image URL, This will override "
+"the default breadcrumbs background image."
+msgstr ""
+
+#: options.php:962
+msgid "Dark Text?"
+msgstr ""
+
+#: options.php:963
+msgid "Turn On/Off the Dark Text style"
+msgstr ""
+
+#: options.php:969
+msgid "Shop Page Title Type"
+msgstr ""
+
+#: options.php:970
+msgid "Select Shop page Title type."
+msgstr ""
+
+#: options.php:977
+msgid "Overlay Header"
+msgstr ""
+
+#: options.php:978
+msgid ""
+"Turn On the overlay Header if you want to have header on top of featured "
+"image or slider"
+msgstr ""
+
+#: options.php:984 options.php:1003
+msgid "Shopping Cart Icon"
+msgstr ""
+
+#: options.php:987
+msgid "Show Shopping Cart in top Menu?"
+msgstr ""
+
+#: options.php:988
+msgid "Turn On/Off the Shopping Cart icon in top menu."
+msgstr ""
+
+#: options.php:993
+msgid "Shopping Cart Top Margin"
+msgstr ""
+
+#: options.php:994
+msgid "Enter Shopping Cart Margin from Top (Default is 52px)"
+msgstr ""
+
+#: options.php:1009 functions/customize.php:157
+msgid "Woocommerce Colors"
+msgstr ""
+
+#: options.php:1016
+msgid ""
+"For Live Colors settings please go to <a href=\"customize.php\">Theme "
+"Customize</a> &gt; <strong>Woocommerce Colors</strong> "
+msgstr ""
+
+#: options.php:1022
+msgid "Footer Settings"
+msgstr ""
+
+#: options.php:1028
+msgid "Number of Footer Columns"
+msgstr ""
+
+#: options.php:1029
+msgid "Select how many columns you want to display in the footer."
+msgstr ""
+
+#: options.php:1037
+msgid "Footer Text"
+msgstr ""
+
+#: options.php:1038
+msgid "Add your copyright phrase or any text to be displayed below the footer."
+msgstr ""
+
+#: options.php:1044
+msgid "Show Go To Top button?"
+msgstr ""
+
+#: options.php:1045
+msgid "Turn On/Off the <strong>Got To Top</strong> button"
+msgstr ""
+
+#: options.php:1052
+msgid "Custom footer Background Image"
+msgstr ""
+
+#: options.php:1053
+msgid "Upload footer Background Image or paste Image URL"
+msgstr ""
+
+#: options.php:1059
+msgid "Footer Bottom Line"
+msgstr ""
+
+#: options.php:1060
+msgid "Footer bottom line height, if you want to remove it please select 0"
+msgstr ""
+
+#: options.php:1075
+msgid "Sliders Settings"
+msgstr ""
+
+#: options.php:1081
+msgid "Revolution Slider custom style?"
+msgstr ""
+
+#: options.php:1082
+msgid "Turn On/Off Official custom style for Revolution Slider."
+msgstr ""
+
+#: options.php:1089
+msgid "Global Settings"
+msgstr ""
+
+#: options.php:1097
+msgid "Slider Pause Time"
+msgstr ""
+
+#: options.php:1098
+msgid "Enter slider pause time in milisecond(for example: 4000 = 4sec)"
+msgstr ""
+
+#: options.php:1104
+msgid "Slider Transition Time"
+msgstr ""
+
+#: options.php:1105
+msgid "Enter slider transition time in milisecond (for example: 700 = 0.7sec)"
+msgstr ""
+
+#: options.php:1114
+msgid "Nivo Slider Settings"
+msgstr ""
+
+#: options.php:1117
+msgid "Slider Style"
+msgstr ""
+
+#: options.php:1118
+msgid "Select Slider Style"
+msgstr ""
+
+#: options.php:1125
+msgid "Slider Shadow"
+msgstr ""
+
+#: options.php:1126
+msgid "Select Slider Shadow (Works on Boxed style of slider)"
+msgstr ""
+
+#: options.php:1136
+msgid "Flex Slider Settings"
+msgstr ""
+
+#: options.php:1139
+msgid "Slider Direction"
+msgstr ""
+
+#: options.php:1140
+msgid "Select Slider direction of transition"
+msgstr ""
+
+#: options.php:1149
+msgid "Kwicks Slider Settings"
+msgstr ""
+
+#: options.php:1152
+msgid "Kwick Slides Height"
+msgstr ""
+
+#: options.php:1153
+msgid "Enter slides Height in Pixel (Default is 315)"
+msgstr ""
+
+#: options.php:1160
+msgid "Kwick Slide Max Size"
+msgstr ""
+
+#: options.php:1161
+msgid "Enter Max size of each slide on hover (Default is 750)"
+msgstr ""
+
+#: options.php:1167
+msgid "Kwick Slides Spacing"
+msgstr ""
+
+#: options.php:1168
+msgid "Enter slides spacing (Default is 0)"
+msgstr ""
+
+#: options.php:1174 options.php:1208
+msgid "Rounded Corners?"
+msgstr ""
+
+#: options.php:1175
+msgid "Turn On/Off the Rounded corners of Slider"
+msgstr ""
+
+#: options.php:1182
+msgid "3D Slice Slider Settings"
+msgstr ""
+
+#: options.php:1186
+msgid "Slider Orientation"
+msgstr ""
+
+#: options.php:1187
+msgid "Select Slider Orientation"
+msgstr ""
+
+#: options.php:1194
+msgid "Show Shadow?"
+msgstr ""
+
+#: options.php:1195
+msgid "Turn On/Off the shadow of slider."
+msgstr ""
+
+#: options.php:1201
+msgid "Show Border"
+msgstr ""
+
+#: options.php:1202
+msgid "Turn On/Off the Border of slider."
+msgstr ""
+
+#: options.php:1209
+msgid "Turn On/Off the Rounded corners of Slider, Buttons and Caption"
+msgstr ""
+
+#: options.php:1216
+msgid "Lite Accordion Settings"
+msgstr ""
+
+#: options.php:1221
+msgid "Lite Accordion Height"
+msgstr ""
+
+#: options.php:1222
+msgid "Enter Lite Accordion height in px (default is 300)"
+msgstr ""
+
+#: options.php:1228
+msgid "Lite Accordion Theme"
+msgstr ""
+
+#: options.php:1229
+msgid "Please select the Theme of Accordion"
+msgstr ""
+
+#: options.php:1234
+msgid "Flat"
+msgstr ""
+
+#: options.php:1234
+msgid "Basic"
+msgstr ""
+
+#: options.php:1234
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:935
+msgid "Light"
+msgstr ""
+
+#: options.php:1234
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:504
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:934
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1270
+msgid "Dark"
+msgstr ""
+
+#: options.php:1234
+msgid "Stitch"
+msgstr ""
+
+#: options.php:1241
+msgid "Social &amp; Shares"
+msgstr ""
+
+#: options.php:1245
+msgid "Show Social Icons in Header?"
+msgstr ""
+
+#: options.php:1246
+msgid ""
+"Turn On/Off the Social icons in the Header.  Note: They will only appear if "
+"you have set a link below."
+msgstr ""
+
+#: options.php:1252
+msgid ""
+"Enter Header Social Icons Margin from Top (Default is 48px) only works on "
+"Header style 1,3,6"
+msgstr ""
+
+#: options.php:1258
+msgid "Social Icon Styles"
+msgstr ""
+
+#: options.php:1259
+msgid "Please select the Style of Social Icons"
+msgstr ""
+
+#: options.php:1264
+msgid "Rounded Square"
+msgstr ""
+
+#: options.php:1264
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1075
+msgid "Circular"
+msgstr ""
+
+#: options.php:1266
+msgid "Border?"
+msgstr ""
+
+#: options.php:1267
+msgid "Turn On/Off the Social icons Border."
+msgstr ""
+
+#: options.php:1272
+msgid "Show Social Icons Tooltip?"
+msgstr ""
+
+#: options.php:1273
+msgid "Turn On/Off the Social icons Tooltip"
+msgstr ""
+
+#: options.php:1279
+msgid "Tooltip Style"
+msgstr ""
+
+#: options.php:1280
+msgid "Please select the Tooltip Style"
+msgstr ""
+
+#: options.php:1285
+msgid "Display on Top"
+msgstr ""
+
+#: options.php:1285
+msgid "Display on Right"
+msgstr ""
+
+#: options.php:1285
+msgid "Display on Bottom"
+msgstr ""
+
+#: options.php:1285
+msgid "Display on Left"
+msgstr ""
+
+#: options.php:1289
+msgid "Open links in new window?"
+msgstr ""
+
+#: options.php:1290
+msgid ""
+"Turn On/Off the links target (Open links in new window or in current window)"
+msgstr ""
+
+#: options.php:1297
+msgid "Twitter Link"
+msgstr ""
+
+#: options.php:1298
+msgid ""
+"Enter the Twitter Link that you would like to use for the social-networking "
+"icons. Use http://"
+msgstr ""
+
+#: options.php:1303
+msgid "Facebook Link"
+msgstr ""
+
+#: options.php:1304
+msgid ""
+"Enter the Facebook Link that you would like to use for the social-networking "
+"icons. Note: Use http://"
+msgstr ""
+
+#: options.php:1310
+msgid "Pinterest Link"
+msgstr ""
+
+#: options.php:1311
+msgid ""
+"Enter the Pinterest Link that you would like to use for the social-"
+"networking icons. Use http://"
+msgstr ""
+
+#: options.php:1316
+msgid "GitHub Link"
+msgstr ""
+
+#: options.php:1317
+msgid ""
+"Enter the GitHub Link that you would like to use for the social-networking "
+"icons. Use http://"
+msgstr ""
+
+#: options.php:1324
+msgid "Flickr Link"
+msgstr ""
+
+#: options.php:1325
+msgid ""
+"Enter the Flickr Link that you would like to use for the social-networking "
+"icons. Use http://"
+msgstr ""
+
+#: options.php:1330
+msgid "Google Plus Link"
+msgstr ""
+
+#: options.php:1331
+msgid ""
+"Enter the Google Plus Link that you would like to use for the social-"
+"networking icons. Use http://"
+msgstr ""
+
+#: options.php:1336
+msgid "YouTube Link"
+msgstr ""
+
+#: options.php:1337
+msgid ""
+"Enter the YouTube Link that you would like to use for the social-networking "
+"icons. Use http://"
+msgstr ""
+
+#: options.php:1342
+msgid "Dribbble Link"
+msgstr ""
+
+#: options.php:1343
+msgid ""
+"Enter the Dribbble Link that you would like to use for the social-networking "
+"icons. Use http://"
+msgstr ""
+
+#: options.php:1348
+msgid "Instagram Link"
+msgstr ""
+
+#: options.php:1349
+msgid ""
+"Enter the Instagram Link that you would like to use for the social-"
+"networking icons. Use http://"
+msgstr ""
+
+#: options.php:1354
+msgid "LinkedIn Link"
+msgstr ""
+
+#: options.php:1355
+msgid ""
+"Enter the LinkedIn Link that you would like to use for the social-networking "
+"icons. Use http://"
+msgstr ""
+
+#: options.php:1361
+msgid "Skype Link"
+msgstr ""
+
+#: options.php:1362
+msgid ""
+"Enter the Skype Link that you would like to use for the social-networking "
+"icons. Use http://"
+msgstr ""
+
+#: options.php:1368
+msgid "Tumblr Link"
+msgstr ""
+
+#: options.php:1369
+msgid ""
+"Enter the Tumblr Link that you would like to use for the social-networking "
+"icons. Use http://"
+msgstr ""
+
+#: options.php:1375
+msgid "RSS Feed"
+msgstr ""
+
+#: options.php:1376
+msgid ""
+"Enter the RSS Feed that you would like to use for the social-networking "
+"icons. Use http://"
+msgstr ""
+
+#: options.php:1382
+msgid "Email Address"
+msgstr ""
+
+#: options.php:1383
+msgid ""
+"Enter the email address that you would like to use for the social-networking "
+"icons."
+msgstr ""
+
+#: options.php:1389
+msgid "Sitemap"
+msgstr ""
+
+#: options.php:1390
+msgid ""
+"Enter the Sitemap link that you would like to use for the social-networking "
+"icons. Use http://"
+msgstr ""
+
+#: options.php:1396 options.php:1403
+msgid "Share Buttons"
+msgstr ""
+
+#: options.php:1404
+msgid ""
+"Turn On/Off buttons you want to display in Blog or Portfolio details page."
+msgstr ""
+
+#: options.php:1412
+msgid "Blog Carousel"
+msgstr ""
+
+#: options.php:1418 options.php:1460 options.php:1513
+msgid "Carousel Speed"
+msgstr ""
+
+#: options.php:1419 options.php:1461 options.php:1514
+msgid "Enter carousel speed time in milisecond (for example: 1000 = 1sec)"
+msgstr ""
+
+#: options.php:1425 options.php:1467 options.php:1506
+msgid "Carousel Pause Time"
+msgstr ""
+
+#: options.php:1426 options.php:1468 options.php:1507
+msgid "Enter carousel pause time in milisecond (for example: 4000 = 4sec)"
+msgstr ""
+
+#: options.php:1435
+msgid "Posts Order by:"
+msgstr ""
+
+#: options.php:1436
+msgid "Choose Date or Menu Order for Blog Posts carousel sort order."
+msgstr ""
+
+#: options.php:1441 options.php:1481 options.php:1527
+#: functions/portfolio-info.php:45 functions/portfolio-info.php:77
+#: functions/vc/vc-custom.php:1340 functions/vc/vc-custom.php:1395
+#: woocommerce/myaccount/my-orders.php:33
+msgid "Date"
+msgstr ""
+
+#: options.php:1441 options.php:1481 options.php:1527
+msgid "Menu Order"
+msgstr ""
+
+#: options.php:1444
+msgid "Posts Order"
+msgstr ""
+
+#: options.php:1445
+msgid ""
+"Choose ASC (Ascending) or DESC (Descending) for Blog Posts order in "
+"carousel ."
+msgstr ""
+
+#: options.php:1450 options.php:1490 options.php:1536
+msgid "ASC"
+msgstr ""
+
+#: options.php:1450 options.php:1490 options.php:1536
+msgid "DESC"
+msgstr ""
+
+#: options.php:1455
+msgid "Portfolio Carousel"
+msgstr ""
+
+#: options.php:1475
+msgid "Portfolio Order by:"
+msgstr ""
+
+#: options.php:1476
+msgid "Choose Date or Menu Order for Portfolio carousel sort order."
+msgstr ""
+
+#: options.php:1484
+msgid "Portfolio Order"
+msgstr ""
+
+#: options.php:1485
+msgid ""
+"Choose ASC (Ascending) or DESC (Descending) for Portfolio order in carousel ."
+msgstr ""
+
+#: options.php:1494
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1325
+#: functions/vc/vc-custom.php:1141
+msgid "Clients Carousel"
+msgstr ""
+
+#: options.php:1499
+msgid "Number of Items in Carousel"
+msgstr ""
+
+#: options.php:1500
+msgid "Enter number of Item you want to display in carousel."
+msgstr ""
+
+#: options.php:1521
+msgid "Clients Order by:"
+msgstr ""
+
+#: options.php:1522
+msgid "Choose Date or Menu Order for Clients carousel sort order."
+msgstr ""
+
+#: options.php:1530
+msgid "Clients Order"
+msgstr ""
+
+#: options.php:1531
+msgid ""
+"Choose ASC (Ascending) or DESC (Descending) for Clients order in carousel ."
+msgstr ""
+
+#: options.php:1541
+msgid "Lightbox"
+msgstr ""
+
+#: options.php:1553
+msgid "Lightbox Theme"
+msgstr ""
+
+#: options.php:1561
+msgid "Animation Speed"
+msgstr ""
+
+#: options.php:1562
+msgid "Speed of lightbox animation Slow, Normanl or Fast"
+msgstr ""
+
+#: options.php:1567
+msgid "Fast"
+msgstr ""
+
+#: options.php:1567
+msgid "Slow"
+msgstr ""
+
+#: options.php:1567 admin/options-sanitize.php:1000
+msgid "Normal"
+msgstr ""
+
+#: options.php:1569
+msgid "Overlay Opacity"
+msgstr ""
+
+#: options.php:1570
+msgid "Overlay background opacity a number between 0 to 1"
+msgstr ""
+
+#: options.php:1576
+msgid "Show title?"
+msgstr ""
+
+#: options.php:1577
+msgid "Turn On/Off the title showing in lightbox"
+msgstr ""
+
+#: options.php:1582
+msgid "Show Gallery Thumbnails?"
+msgstr ""
+
+#: options.php:1583
+msgid "Turn On/Off the gallery thumbnails in the lightbox"
+msgstr ""
+
+#: options.php:1588
+msgid "Autoplay Gallery?"
+msgstr ""
+
+#: options.php:1589
+msgid "Turn On/Off the autoplay the lightbox gallery"
+msgstr ""
+
+#: options.php:1594
+msgid "Gallery Slideshow Speed"
+msgstr ""
+
+#: options.php:1595
+msgid ""
+"If autoplay is set to true, select the slideshow speed in ms. (Default: "
+"5000, 1000 ms = 1 second)"
+msgstr ""
+
+#: options.php:1601
+msgid "Resizable?"
+msgstr ""
+
+#: options.php:1602
+msgid "Turn On/Off the Resizing for big images."
+msgstr ""
+
+#: options.php:1607
+msgid "Gallery Separator"
+msgstr ""
+
+#: options.php:1608
+msgid "The separator for the gallery counter 1 \"of\" 2"
+msgstr ""
+
+#: options.php:1614
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1065
+#: functions/vc/vc-custom.php:825
+msgid "Social Icons"
+msgstr ""
+
+#: options.php:1615
+msgid "Turn On/Off the social sharing icons in lightbox"
+msgstr ""
+
+#: options.php:1620
+msgid "Turn OFF Lightbox on Small Devices?"
+msgstr ""
+
+#: options.php:1621
+msgid ""
+"Turn On/Off the Lightbox on small devices such as smartphones. This will "
+"link directly to the image on small devices."
+msgstr ""
+
+#: options.php:1629
+msgid "Tools"
+msgstr ""
+
+#: options.php:1633
+msgid "Breadcrumb Text"
+msgstr ""
+
+#: options.php:1634
+msgid ""
+"This is the text will appear before the breadcrumb. Default is nothing "
+"(empty)"
+msgstr ""
+
+#: options.php:1640
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: options.php:1641
+msgid "This is the text will separate breadcrumb items."
+msgstr ""
+
+#: options.php:1648
+msgid "Date and Time Format"
+msgstr ""
+
+#: options.php:1649
+msgid ""
+"Date and Time format, <a href=\"http://codex.wordpress.org/"
+"Formatting_Date_and_Time\" target=\"_blank\" >Documentation on date and time "
+"formatting</a>"
+msgstr ""
+
+#: options.php:1655
+msgid "RTL Language Support"
+msgstr ""
+
+#: options.php:1658
+msgid "Right to Left (RTL) Language Support?"
+msgstr ""
+
+#: options.php:1659
+msgid ""
+"If you want to run a RTL Language website on English WP back-end (any LTR "
+"Language) you can turn on this feature to add RTL Css to your website."
+msgstr ""
+
+#: options.php:1666
+msgid "Retina"
+msgstr ""
+
+#: options.php:1669
+msgid "Retina Support?"
+msgstr ""
+
+#: options.php:1670
+msgid "Turn On/Off the Retina displays support."
+msgstr ""
+
+#: options.php:1677 functions/breadcrumbs.php:12
+#: woocommerce/global/breadcrumb.php:147
+msgid "Error 404"
+msgstr ""
+
+#: options.php:1681
+msgid "404 Error Title"
+msgstr ""
+
+#: options.php:1682
+msgid "Enter your custom 404 error title."
+msgstr ""
+
+#: options.php:1684
+msgid "404 Page Not Found"
+msgstr ""
+
+#: options.php:1687
+msgid "404 Error Message Text"
+msgstr ""
+
+#: options.php:1688
+msgid "Enter your custom 404 error message."
+msgstr ""
+
+#: options.php:1690
+msgid "Sorry, We could not find the content you were looking for."
+msgstr ""
+
+#: options.php:1699
+msgid "Custom Codes"
+msgstr ""
+
+#: options.php:1704
+msgid "Custom CSS"
+msgstr ""
+
+#: options.php:1705
+msgid ""
+"Paste your custom css here... <br /><strong>NOTE:</strong> You don't need to "
+"add &lt;style&gt; tags"
+msgstr ""
+
+#: options.php:1710
+msgid "Custom Javascript"
+msgstr ""
+
+#: options.php:1711
+msgid ""
+"Paste your custom JavaScript code here... <br /><strong>NOTE:</strong> You "
+"don't need to add &lt;script&gt; tags<br/><br/>This will add to Footer of "
+"page."
+msgstr ""
+
+#: options.php:1717
+msgid "Track Code"
+msgstr ""
+
+#: options.php:1718
+msgid ""
+"Paste your Track Code here (for example: Google Analytics) <br /"
+"><strong>NOTE:</strong> You don't need to add &lt;script&gt; tags<br/><br/"
+">This will add to Footer of page."
+msgstr ""
+
+#: options.php:1726
+msgid "Maintenance"
+msgstr ""
+
+#: options.php:1732
+msgid "Maintenance Mode"
+msgstr ""
+
+#: options.php:1733
+msgid "Turn On/Off Maintenace mode."
+msgstr ""
+
+#: options.php:1739
+msgid "Maintenance Page"
+msgstr ""
+
+#: options.php:1740
+msgid "Please select maintenace mode page"
+msgstr ""
+
+#: options.php:1748
+msgid "Default Maintenance Page Text"
+msgstr ""
+
+#: options.php:1749
+msgid "Please set your own text for Default Maintenance Page"
+msgstr ""
+
+#: options.php:1755
+msgid "Import Demo"
+msgstr ""
+
+#: options.php:1783
+msgid "One Click Demo Intaller"
+msgstr ""
+
+#: options.php:1784
+msgid ""
+"Please select your sample demo and click on <strong>Import Demo</strong> "
+"button.<br/><br/><strong>NOTE:</strong> It will take some minutes, please "
+"wait for finishing the import process."
+msgstr ""
+
+#: options.php:1791 options.php:1796
+msgid "Backup"
+msgstr ""
+
+#: options.php:1797
+msgid ""
+"Backup and restore your theme options<br /><strong>NOTE:</strong>For WPML "
+"Users: You should get backup for each language."
+msgstr ""
+
+#: search.php:17
+msgid "Search"
+msgstr ""
+
+#: search.php:20 single-portfolio.php:12 single.php:12
+msgid "You are here:"
+msgstr ""
+
+#: search.php:32
+msgid "Tag search for: "
+msgstr ""
+
+#: search.php:37
+msgid "Search for: "
+msgstr ""
+
+#: search.php:42 functions/title-h1.php:7
+msgid "Category: "
+msgstr ""
+
+#: search.php:45 search.php:49 search.php:53
+msgid "Archive for: "
+msgstr ""
+
+#: search.php:58
+msgid "Articles posted by: "
+msgstr ""
+
+#: search.php:127 functions/carousel-posts.php:150
+#: functions/carousel-posts.php:187 functions/recent-posts.php:69
+#: functions/post-format/content-meta-large.php:15
+#: functions/post-format/content-meta-masonry.php:15
+#: functions/post-format/content-meta-medium.php:11
+#: functions/post-format/content-meta-small.php:11
+#: functions/post-format/single-meta.php:12
+msgid "No Comment"
+msgstr ""
+
+#: search.php:127 functions/carousel-posts.php:150
+#: functions/carousel-posts.php:187 functions/recent-posts.php:69
+#: functions/post-format/content-meta-large.php:15
+#: functions/post-format/content-meta-masonry.php:15
+#: functions/post-format/content-meta-medium.php:11
+#: functions/post-format/content-meta-small.php:11
+#: functions/post-format/single-meta.php:12
+msgid "1 Comment"
+msgstr ""
+
+#: search.php:127 functions/carousel-posts.php:150
+#: functions/carousel-posts.php:187 functions/recent-posts.php:69
+#: functions/post-format/content-meta-large.php:15
+#: functions/post-format/content-meta-masonry.php:15
+#: functions/post-format/content-meta-medium.php:11
+#: functions/post-format/content-meta-small.php:11
+#: functions/post-format/single-meta.php:12
+msgid "% Comments"
+msgstr ""
+
+#: search.php:131 functions/post-format/content-meta-large.php:20
+#: functions/post-format/content-meta-masonry.php:19
+#: functions/post-format/content-meta-medium.php:15
+#: functions/post-format/content-meta-small.php:15
+msgid "in Pages"
+msgstr ""
+
+#: search.php:135 functions/post-format/content-meta-large.php:24
+#: functions/post-format/content-meta-masonry.php:23
+#: functions/post-format/content-meta-medium.php:19
+#: functions/post-format/content-meta-small.php:19
+msgid "in Portfolio"
+msgstr ""
+
+#: single.php:24 single.php:31 functions/title-h1.php:27
+msgid "Blog"
+msgstr ""
+
+#: single.php:107
+msgid "Tags: "
+msgstr ""
+
+#: admin/options-framework.php:190 admin/options-framework.php:598
+msgid "Official Options"
+msgstr ""
+
+#: admin/options-framework.php:291
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: admin/options-framework.php:323
+msgid "Default options restored."
+msgstr ""
+
+#: admin/options-framework.php:366
+msgid "Options saved."
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:27
+msgid "Theme Options Media"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:130
+#: functions/shortcodes/shortcode_generator/option-element.php:170
+#: functions/shortcodes/shortcode_generator/option-element.php:215
+#: functions/shortcodes/shortcode_generator/option-element.php:243
+msgid "Upload"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:153
+msgid "View File"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:290
+msgid "Gallery"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:290
+msgid "Previously Uploaded"
+msgstr ""
+
+#: admin/options-sanitize.php:242
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: admin/options-sanitize.php:243
+msgid "Repeat Vertically"
+msgstr ""
+
+#: admin/options-sanitize.php:244
+msgid "Repeat All"
+msgstr ""
+
+#: admin/options-sanitize.php:257
+msgid "Top Left"
+msgstr ""
+
+#: admin/options-sanitize.php:258
+msgid "Top Center"
+msgstr ""
+
+#: admin/options-sanitize.php:259
+msgid "Top Right"
+msgstr ""
+
+#: admin/options-sanitize.php:260
+msgid "Middle Left"
+msgstr ""
+
+#: admin/options-sanitize.php:261
+msgid "Middle Center"
+msgstr ""
+
+#: admin/options-sanitize.php:262
+msgid "Middle Right"
+msgstr ""
+
+#: admin/options-sanitize.php:263
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/options-sanitize.php:264
+msgid "Bottom Center"
+msgstr ""
+
+#: admin/options-sanitize.php:265
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/options-sanitize.php:278
+msgid "Scroll Normally"
+msgstr ""
+
+#: admin/options-sanitize.php:279
+msgid "Fixed in Place"
+msgstr ""
+
+#: admin/options-sanitize.php:1001
+msgid "Italic"
+msgstr ""
+
+#: admin/options-sanitize.php:1002
+msgid "Bold"
+msgstr ""
+
+#: admin/options-sanitize.php:1003
+msgid "Bold Italic"
+msgstr ""
+
+#: functions/breadcrumbs.php:7
+msgid "Home"
+msgstr ""
+
+#: functions/breadcrumbs.php:8
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: functions/breadcrumbs.php:9
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: functions/breadcrumbs.php:10
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: functions/breadcrumbs.php:11
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: functions/breadcrumbs.php:72 woocommerce/single-product/meta.php:27
+msgid "Category:"
+msgstr ""
+
+#: functions/breadcrumbs.php:72 woocommerce/single-product/meta.php:29
+msgid "Tag:"
+msgstr ""
+
+#: functions/breadcrumbs.php:152 woocommerce/global/breadcrumb.php:203
+msgid "Page"
+msgstr ""
+
+#: functions/carousel-posts.php:150 functions/carousel-posts.php:187
+#: functions/recent-posts.php:69
+msgid "by"
+msgstr ""
+
+#: functions/custom-posttype.php:18
+msgid "Portfolio"
+msgstr ""
+
+#: functions/custom-posttype.php:19
+msgid "Portfolio item"
+msgstr ""
+
+#: functions/custom-posttype.php:20 functions/custom-posttype.php:140
+#: functions/custom-posttype.php:285 functions/custom-posttype.php:415
+msgid "Add New"
+msgstr ""
+
+#: functions/custom-posttype.php:21
+msgid "Add New Portfolio item"
+msgstr ""
+
+#: functions/custom-posttype.php:22
+msgid "Edit Portfolio item"
+msgstr ""
+
+#: functions/custom-posttype.php:23
+msgid "New Portfolio item"
+msgstr ""
+
+#: functions/custom-posttype.php:24
+msgid "View Portfolio item"
+msgstr ""
+
+#: functions/custom-posttype.php:25
+msgid "Search Portfolio items"
+msgstr ""
+
+#: functions/custom-posttype.php:26
+msgid "No portfolio items found"
+msgstr ""
+
+#: functions/custom-posttype.php:27
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#: functions/custom-posttype.php:52
+msgid "Portfolio categories"
+msgstr ""
+
+#: functions/custom-posttype.php:53
+msgid "Portfolio category"
+msgstr ""
+
+#: functions/custom-posttype.php:68
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:422
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:518
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:659
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:948
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:984
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1211
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1275
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1341
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1373
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1402
+#: functions/vc/vc-custom.php:62 functions/vc/vc-custom.php:237
+#: functions/vc/vc-custom.php:409 functions/vc/vc-custom.php:1047
+#: functions/vc/vc-custom.php:1101 functions/vc/vc-custom.php:1155
+#: functions/vc/vc-custom.php:1197 functions/vc/vc-custom.php:1259
+#: functions/vc/vc-custom.php:1320 functions/vc/vc-custom.php:1343
+msgid "Title"
+msgstr ""
+
+#: functions/custom-posttype.php:69 functions/custom-posttype.php:185
+#: functions/custom-posttype.php:332 functions/custom-posttype.php:476
+msgid "Thumbnail"
+msgstr ""
+
+#: functions/custom-posttype.php:70
+msgid "Categories"
+msgstr ""
+
+#: functions/custom-posttype.php:71 functions/widgets/widget-combo-tabs.php:89
+msgid "Comments"
+msgstr ""
+
+#: functions/custom-posttype.php:72 functions/custom-posttype.php:188
+#: functions/custom-posttype.php:336 functions/custom-posttype.php:479
+#: woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#: functions/custom-posttype.php:138
+msgid "Slides"
+msgstr ""
+
+#: functions/custom-posttype.php:139
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1313
+msgid "Slide"
+msgstr ""
+
+#: functions/custom-posttype.php:141
+msgid "Add New Slide"
+msgstr ""
+
+#: functions/custom-posttype.php:142
+msgid "Edit Slide"
+msgstr ""
+
+#: functions/custom-posttype.php:143
+msgid "New Slide"
+msgstr ""
+
+#: functions/custom-posttype.php:144
+msgid "View Slide"
+msgstr ""
+
+#: functions/custom-posttype.php:145
+msgid "Search Slides"
+msgstr ""
+
+#: functions/custom-posttype.php:146
+msgid "No slides found"
+msgstr ""
+
+#: functions/custom-posttype.php:147
+msgid "No slides found in Trash"
+msgstr ""
+
+#: functions/custom-posttype.php:168
+msgid "Slider types"
+msgstr ""
+
+#: functions/custom-posttype.php:169
+msgid "Slider type"
+msgstr ""
+
+#: functions/custom-posttype.php:187 functions/custom-posttype.php:335
+#: functions/custom-posttype.php:478 functions/portfolio-info.php:57
+#: functions/portfolio-info.php:90
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1306
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1346
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1378
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1407
+#: functions/vc/vc-custom.php:1112 functions/vc/vc-custom.php:1160
+#: functions/vc/vc-custom.php:1213 functions/vc/vc-custom.php:1276
+#: functions/vc/vc-custom.php:1331
+msgid "Category"
+msgstr ""
+
+#: functions/custom-posttype.php:283
+msgid "Clients"
+msgstr ""
+
+#: functions/custom-posttype.php:284 functions/portfolio-info.php:17
+#: functions/portfolio-info.php:73
+msgid "Client"
+msgstr ""
+
+#: functions/custom-posttype.php:286
+msgid "Add New Client"
+msgstr ""
+
+#: functions/custom-posttype.php:287
+msgid "Edit Client"
+msgstr ""
+
+#: functions/custom-posttype.php:288
+msgid "New Client"
+msgstr ""
+
+#: functions/custom-posttype.php:289
+msgid "View Client"
+msgstr ""
+
+#: functions/custom-posttype.php:290
+msgid "Search Clients"
+msgstr ""
+
+#: functions/custom-posttype.php:291
+msgid "No Clients found"
+msgstr ""
+
+#: functions/custom-posttype.php:292
+msgid "No Clients found in Trash"
+msgstr ""
+
+#: functions/custom-posttype.php:316
+msgid "Clients categories"
+msgstr ""
+
+#: functions/custom-posttype.php:317
+msgid "Clients category"
+msgstr ""
+
+#: functions/custom-posttype.php:413
+msgid "Testimonials"
+msgstr ""
+
+#: functions/custom-posttype.php:414
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1261
+msgid "Testimonial"
+msgstr ""
+
+#: functions/custom-posttype.php:416
+msgid "Add New Testimonial"
+msgstr ""
+
+#: functions/custom-posttype.php:417
+msgid "Edit Testimonial"
+msgstr ""
+
+#: functions/custom-posttype.php:418
+msgid "New Testimonial"
+msgstr ""
+
+#: functions/custom-posttype.php:419
+msgid "View Testimonial"
+msgstr ""
+
+#: functions/custom-posttype.php:420
+msgid "Search Testimonials"
+msgstr ""
+
+#: functions/custom-posttype.php:421
+msgid "No Testimonial found"
+msgstr ""
+
+#: functions/custom-posttype.php:422
+msgid "No Testimonial found in Trash"
+msgstr ""
+
+#: functions/custom-posttype.php:443
+msgid "Testimonial types"
+msgstr ""
+
+#: functions/custom-posttype.php:444
+msgid "Testimonial type"
+msgstr ""
+
+#: functions/customize.php:16
+msgid "Theme Color"
+msgstr ""
+
+#: functions/customize.php:17
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:329
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:364
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:456
+msgid "Background Color"
+msgstr ""
+
+#: functions/customize.php:18
+msgid "Links Color"
+msgstr ""
+
+#: functions/customize.php:19
+msgid "Links Hover Color"
+msgstr ""
+
+#: functions/customize.php:20
+msgid "Extra Panel Background Color"
+msgstr ""
+
+#: functions/customize.php:21
+msgid "Buttons Color"
+msgstr ""
+
+#: functions/customize.php:22
+msgid "Icons Color"
+msgstr ""
+
+#: functions/customize.php:23
+msgid "Social Icons Color"
+msgstr ""
+
+#: functions/customize.php:24
+msgid "Light Icons Color"
+msgstr ""
+
+#: functions/customize.php:28
+msgid "Main Colors"
+msgstr ""
+
+#: functions/customize.php:29 functions/customize.php:74
+#: functions/customize.php:120 functions/customize.php:158
+msgid "Select the colors of each part of page that you want."
+msgstr ""
+
+#: functions/customize.php:59
+msgid "Header Color"
+msgstr ""
+
+#: functions/customize.php:60
+msgid "Header Text Color"
+msgstr ""
+
+#: functions/customize.php:61
+msgid "Menu Background Color"
+msgstr ""
+
+#: functions/customize.php:62
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: functions/customize.php:63
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: functions/customize.php:64
+msgid "Menu Indicator Color"
+msgstr ""
+
+#: functions/customize.php:65
+msgid "Menu Icon Color"
+msgstr ""
+
+#: functions/customize.php:66
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: functions/customize.php:67
+msgid "Breadcrumbs Title Color"
+msgstr ""
+
+#: functions/customize.php:68
+msgid "Breadcrumbs Text Color"
+msgstr ""
+
+#: functions/customize.php:73
+msgid "Header Colors"
+msgstr ""
+
+#: functions/customize.php:103
+msgid "Footer Background Color"
+msgstr ""
+
+#: functions/customize.php:104
+msgid "Footer Text Color"
+msgstr ""
+
+#: functions/customize.php:105
+msgid "Footer Icon Color"
+msgstr ""
+
+#: functions/customize.php:106
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: functions/customize.php:107
+msgid "Footer Bottom Border Color"
+msgstr ""
+
+#: functions/customize.php:108
+msgid "Footer Links Color"
+msgstr ""
+
+#: functions/customize.php:109
+msgid "Footer Links Hover Color"
+msgstr ""
+
+#: functions/customize.php:110
+msgid "Footer Title Bottom line Color"
+msgstr ""
+
+#: functions/customize.php:111
+msgid "Footer Title Color"
+msgstr ""
+
+#: functions/customize.php:112
+msgid "Footer Copyright Links Color"
+msgstr ""
+
+#: functions/customize.php:113
+msgid "Footer Copyright Text Color"
+msgstr ""
+
+#: functions/customize.php:114
+msgid "Footer Bottom Menu Color"
+msgstr ""
+
+#: functions/customize.php:119
+msgid "Footer Colors"
+msgstr ""
+
+#: functions/customize.php:150
+msgid "Shopping Cart Icons Color"
+msgstr ""
+
+#: functions/customize.php:151
+msgid "Shopping Cart Counter Text Color"
+msgstr ""
+
+#: functions/customize.php:152
+msgid "Shopping Cart Counter Background Color"
+msgstr ""
+
+#: functions/customize.php:153
+msgid "Sale Ribbon Color"
+msgstr ""
+
+#: functions/plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: functions/plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: functions/plugin-activation.php:213 functions/plugin-activation.php:1638
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: functions/plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions/plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions/plugin-activation.php:544 functions/plugin-activation.php:2168
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: functions/plugin-activation.php:1174
+msgid "Private Repository"
+msgstr ""
+
+#: functions/plugin-activation.php:1177
+msgid "Pre-Packaged"
+msgstr ""
+
+#: functions/plugin-activation.php:1182
+msgid "WordPress Repository"
+msgstr ""
+
+#: functions/plugin-activation.php:1185
+msgid "Required"
+msgstr ""
+
+#: functions/plugin-activation.php:1185
+msgid "Recommended"
+msgstr ""
+
+#: functions/plugin-activation.php:1188
+msgid "Not Installed"
+msgstr ""
+
+#: functions/plugin-activation.php:1190
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: functions/plugin-activation.php:1290 functions/plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: functions/plugin-activation.php:1312 functions/plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: functions/plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: functions/plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: functions/plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: functions/plugin-activation.php:1379
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1228
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1259
+#: functions/vc/vc-custom.php:217 functions/vc/vc-custom.php:1003
+#: functions/vc/vc-custom.php:1085
+msgid "Type"
+msgstr ""
+
+#: functions/plugin-activation.php:1380 woocommerce/myaccount/my-orders.php:34
+msgid "Status"
+msgstr ""
+
+#: functions/plugin-activation.php:1508
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: functions/plugin-activation.php:1616
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: functions/plugin-activation.php:1934
+msgid "Install package not available."
+msgstr ""
+
+#: functions/plugin-activation.php:1935
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: functions/plugin-activation.php:1936
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: functions/plugin-activation.php:1937
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: functions/plugin-activation.php:1938
+msgid "Plugin install failed."
+msgstr ""
+
+#: functions/plugin-activation.php:1939
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: functions/plugin-activation.php:1950
+msgid "Plugin activation failed."
+msgstr ""
+
+#: functions/plugin-activation.php:2064
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: functions/plugin-activation.php:2065
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: functions/plugin-activation.php:2065 functions/plugin-activation.php:2074
+msgid "Show Details"
+msgstr ""
+
+#: functions/plugin-activation.php:2065 functions/plugin-activation.php:2074
+msgid "Hide Details"
+msgstr ""
+
+#: functions/plugin-activation.php:2066
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: functions/plugin-activation.php:2067
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/plugin-activation.php:2071
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: functions/plugin-activation.php:2072
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: functions/plugin-activation.php:2073
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: functions/plugin-activation.php:2074
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: functions/plugin-activation.php:2075
+msgid "All installations have been completed."
+msgstr ""
+
+#: functions/plugin-activation.php:2076
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/portfolio-filtering.php:7
+msgid "All"
+msgstr ""
+
+#: functions/portfolio-full.php:6 functions/portfolio-sidebar.php:27
+#: woocommerce/content-single-product.php:76
+msgid "Previous"
+msgstr ""
+
+#: functions/portfolio-full.php:7 functions/portfolio-sidebar.php:28
+msgid "All Projects"
+msgstr ""
+
+#: functions/portfolio-full.php:8 functions/portfolio-sidebar.php:29
+#: woocommerce/content-single-product.php:79
+msgid "Next"
+msgstr ""
+
+#: functions/portfolio-info.php:31 functions/portfolio-info.php:82
+msgid "Website"
+msgstr ""
+
+#: functions/title-h1.php:4
+msgid "Search Result for: "
+msgstr ""
+
+#: functions/title-h1.php:7
+msgid "Tag: "
+msgstr ""
+
+#: functions/wooconfig.php:49
+msgid "Cart subtotal"
+msgstr ""
+
+#: functions/importer/parsers.php:42 functions/importer/parsers.php:72
+#: functions/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: functions/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: functions/importer/parsers.php:84 functions/importer/parsers.php:89
+#: functions/importer/parsers.php:279 functions/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:134
+#: functions/importer/wordpress-importer.php:143
+#: functions/importer/wordpress-importer.php:194
+#: functions/importer/wordpress-importer.php:198
+#: functions/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:511
+#: functions/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:1040
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: functions/importer/wordpress-importer.php:1130
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: functions/metabox/inc/field.php:185
+msgid "+"
+msgstr ""
+
+#: functions/metabox/inc/field.php:202
+msgid "&#8211;"
+msgstr ""
+
+#: functions/metabox/inc/meta-box.php:241
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: functions/metabox/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: functions/metabox/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: functions/metabox/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: functions/metabox/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: functions/metabox/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: functions/metabox/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: functions/metabox/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: functions/metabox/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: functions/metabox/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: functions/metabox/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: functions/metabox/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: functions/metabox/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr ""
+
+#: functions/metabox/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: functions/metabox/inc/fields/post.php:66
+#: functions/metabox/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/option-element.php:113
+msgid "Remove Accordion Items"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/option-element.php:113
+msgid "Add Accordion Item"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/option-element.php:131
+msgid "Remove Tab"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/option-element.php:131
+msgid "Add Tab"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/option-element.php:143
+msgid "Remove List Items"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/option-element.php:143
+msgid "Add List Item"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/option-element.php:157
+msgid "Remove Bar"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/option-element.php:157
+msgid "Add Bar"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/option-element.php:171
+msgid "Remove Image"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/option-element.php:216
+#: functions/shortcodes/shortcode_generator/option-element.php:244
+msgid "Remove Upload"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/option-element.php:225
+#: functions/shortcodes/shortcode_generator/option-element.php:252
+msgid "Remove Client"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/option-element.php:225
+#: functions/shortcodes/shortcode_generator/option-element.php:252
+msgid "Add Client"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcode-generator.php:24
+msgid "Choose a shortcode"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcode-generator.php:80
+msgid "Content: "
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcode-generator.php:88
+msgid "Add Shortcode"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:10
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:920
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1329
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1361
+#: functions/vc/vc-custom.php:1148 functions/vc/vc-custom.php:1202
+#: functions/vc/vc-custom.php:1264
+msgid "Columns"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:16
+msgid "Full Width Column"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:22
+msgid "One Half (1/2) OR (2/4) OR (3/6)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:26
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:45
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:64
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:83
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:102
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:121
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:140
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:157
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:176
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:195
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:212
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:433
+msgid "Position"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:27
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:46
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:65
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:84
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:103
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:122
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:158
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:177
+msgid ""
+"Please use first and last for children columns and for parents always select "
+"middle"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:30
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:49
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:68
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:87
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:106
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:125
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:143
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:161
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:180
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:198
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:215
+msgid "First Column"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:31
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:50
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:69
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:88
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:107
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:126
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:162
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:181
+msgid "Middle Column"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:32
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:51
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:70
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:89
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:108
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:127
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:144
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:163
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:182
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:199
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:216
+msgid "Last Column"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:41
+msgid "One Third (1/3) OR (2/6)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:60
+msgid "One Fourth (1/4)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:79
+msgid "One Fifth (1/5)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:98
+msgid "One Sixth (1/6)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:117
+msgid "Two Third (2/3) OR (4/6)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:136
+msgid "Three Fourth (3/4)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:141
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:196
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:213
+msgid "Please use first and last for children columns."
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:153
+msgid "Two Fifth (2/5)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:172
+msgid "Three Fifth (3/5)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:191
+msgid "Four Fifth (4/5)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:208
+msgid "Five Sixth (5/6)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:236
+msgid "Code Block (pre)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:243
+msgid "Clearfix"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:250
+#: functions/vc/vc-custom.php:642
+msgid "Divider"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:254
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:297
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:406
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:501
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:509
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:745
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:753
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:932
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:953
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:971
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1070
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1267
+#: functions/vc/vc-custom.php:226 functions/vc/vc-custom.php:395
+#: functions/vc/vc-custom.php:650 functions/vc/vc-custom.php:833
+#: functions/vc/vc-custom.php:1093
+msgid "Style"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:256
+msgid "Transparent"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:257
+msgid "Line"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:258
+msgid "Dotted"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:259
+msgid "Double"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:260
+msgid "Gradient"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:266
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:805
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:949
+#: functions/vc/vc-custom.php:663 functions/vc/vc-custom.php:789
+msgid "Color"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:267
+msgid "e.g. #eee"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:271
+#: functions/vc/vc-custom.php:170 functions/vc/vc-custom.php:673
+#: functions/vc/vc-custom.php:1402
+msgid "Size"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:272
+msgid "Please enter the size. default is 1px"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:278
+msgid "Please enter the margin top. e.g. 40px or 12em"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:282
+#: functions/vc/vc-custom.php:690
+msgid "Margin Bottom"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:283
+msgid "Please enter the margin bottom. e.g. 40px or 12em"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:293
+msgid "Dropcap"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:299
+msgid "Solid (Simple)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:300
+msgid "Simple Text"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:301
+msgid "Border"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:306
+msgid "Border Radius"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:308
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1281
+msgid "1"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:309
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1282
+msgid "2"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:310
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1283
+msgid "3"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:311
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1284
+msgid "4"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:312
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1285
+msgid "5"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:313
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1286
+msgid "6"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:314
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1287
+msgid "7"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:315
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1288
+msgid "8"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:316
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1289
+msgid "9"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:317
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1290
+msgid "10"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:318
+msgid "Circle"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:324
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:369
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:709
+msgid "Text Color"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:325
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:330
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:335
+msgid "e.g. #999999"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:334
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:461
+msgid "Border Color"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:345
+msgid "Gap"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:349
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:738
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1237
+#: functions/vc/vc-custom.php:713
+msgid "Height"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:350
+msgid "Only enter the number. e.g. 50 (You do not need to add px or em)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:359
+msgid "Highlight"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:365
+msgid "e.g. #CC0000"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:370
+msgid "e.g. #FFFFFF"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:381
+msgid "List Style"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:387
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:637
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:789
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:992
+#: functions/vc/vc-custom.php:78 functions/vc/vc-custom.php:162
+#: functions/vc/vc-custom.php:251 functions/vc/vc-custom.php:427
+msgid "Icon"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:401
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1262
+msgid "Quote"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:408
+msgid "Full Width"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:429
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1091
+#: functions/vc/vc-custom.php:857
+msgid "Tooltip"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:435
+msgid "Top"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:437
+msgid "Bottom"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:443
+msgid "Tooltip Text"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:452
+msgid "Wrap Section"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:457
+msgid "e.g. #EEEEEE"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:462
+msgid "e.g. #E9E9E9"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:466
+msgid "Turn on the inset Shadow"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:468
+#: functions/vc/vc-custom.php:596
+msgid "Background Image"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:479
+msgid "Elements"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:486
+msgid "Accordion"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:497
+#: functions/vc/vc-custom.php:210
+msgid "Action Box"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:503
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1269
+msgid "light"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:511
+msgid "Text in Left | Button in Right"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:512
+msgid "Text in Right | Button in Left"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:513
+msgid "Center Style"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:522
+msgid "Sub Text"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:526
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:607
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1009
+#: functions/vc/vc-custom.php:132 functions/vc/vc-custom.php:299
+#: functions/vc/vc-custom.php:477
+msgid "Button Default Color"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:528
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:609
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1011
+msgid "Black"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:529
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:610
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1012
+msgid "Green"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:530
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:611
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1013
+msgid "Orange"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:531
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:612
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1014
+msgid "Blue"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:532
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:613
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1015
+msgid "Red"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:533
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:614
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1016
+msgid "Aqua"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:534
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:615
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1017
+msgid "Pharlap"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:535
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:616
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1018
+msgid "Gumbo"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:536
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:617
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1019
+msgid "Turquoise"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:537
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:618
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1020
+msgid "Custom Color"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:543
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:624
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1026
+#: functions/vc/vc-custom.php:152 functions/vc/vc-custom.php:323
+#: functions/vc/vc-custom.php:501
+msgid "Button Custom Color"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:544
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:625
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1027
+msgid ""
+"e.g. #CC0000 or red, blue,... (If you want to use one of the default colors "
+"please leave this field empty.)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:548
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:597
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1035
+#: functions/vc/vc-custom.php:344 functions/vc/vc-custom.php:522
+msgid "Button Size"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:550
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:599
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1037
+#: functions/vc/vc-custom.php:1405
+msgid "Small"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:551
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:600
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1038
+#: functions/vc/vc-custom.php:1406
+msgid "Medium"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:552
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:601
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1039
+#: functions/vc/vc-custom.php:1407
+msgid "Large"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:558
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1005
+#: functions/vc/vc-custom.php:112 functions/vc/vc-custom.php:276
+#: functions/vc/vc-custom.php:453
+msgid "Button Text"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:562
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:629
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1045
+msgid "Button URL (Link)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:566
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:641
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1049
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1082
+msgid "Link Target"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:567
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:642
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1050
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1083
+#: functions/vc/vc-custom.php:193 functions/vc/vc-custom.php:370
+#: functions/vc/vc-custom.php:548 functions/vc/vc-custom.php:853
+msgid "Link open in New window or Current window"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:569
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:644
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1052
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1085
+msgid "Current Window (_self)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:570
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:645
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1053
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1086
+msgid "New Window (_blank)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:579
+#: functions/vc/vc-custom.php:103
+msgid "Button"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:583
+#: functions/vc/vc-custom.php:118 functions/vc/vc-custom.php:281
+#: functions/vc/vc-custom.php:459
+msgid "Button Style"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:585
+msgid "Default (Rounded)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:586
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1073
+msgid "Square"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:587
+msgid "Round"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:588
+msgid "Oval"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:589
+msgid "Outlined"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:590
+msgid "Outlined (Round)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:591
+msgid "Outlined (Square)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:633
+msgid "Text"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:657
+msgid "Featured Box"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:660
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:988
+#: functions/vc/vc-custom.php:244 functions/vc/vc-custom.php:416
+msgid "Sub Title"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:661
+#: functions/vc/vc-custom.php:268 functions/vc/vc-custom.php:445
+#: functions/vc/vc-custom.php:1453
+msgid "Image"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:662
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:996
+#: functions/vc/vc-custom.php:85 functions/vc/vc-custom.php:258
+#: functions/vc/vc-custom.php:434
+msgid "Icon Color"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:662
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:710
+msgid "e.g. #666666"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:665
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:793
+msgid "Icon Size"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:693
+#: functions/vc/vc-custom.php:758
+msgid "Google Font"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:697
+#: functions/vc/vc-custom.php:773
+msgid "Font Family"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:704
+#: functions/vc/vc-custom.php:781
+msgid "Font Size"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:705
+msgid "e.g. 50px"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:714
+#: functions/vc/vc-custom.php:796
+msgid "Margin"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:715
+msgid "e.g. 20px"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:719
+#: functions/vc/vc-custom.php:803
+msgid "Text Align"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:724
+msgid "Justify"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:735
+msgid "Google Map"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:737
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1236
+msgid "Width"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:739
+msgid "Lat"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:740
+msgid "Long"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:741
+msgid "Address"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:747
+msgid "Full"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:748
+msgid "Standard"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:763
+msgid "Hide Controls"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:765
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:775
+msgid "No"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:766
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:774
+msgid "Yes"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:769
+msgid "Info Window"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:772
+msgid "Show Info window by default"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:779
+msgid "Marker Image"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:806
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:997
+msgid "e.g. #CC0000 or red, blue,..."
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:823
+msgid "Members"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:828
+#: functions/vc/vc-custom.php:1442
+msgid "Full Name"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:832
+msgid "Jobe Role"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:836
+msgid "Please enter member image"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:841
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1103
+#: functions/vc/vc-custom.php:869 functions/vc/vc-custom.php:1458
+msgid "Facebook URL"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:842
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1104
+msgid "e.g. http://www.facebook.com/golgraphic (with http://)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:846
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1108
+#: functions/vc/vc-custom.php:876 functions/vc/vc-custom.php:1465
+msgid "Twitter URL"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:850
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1112
+#: functions/vc/vc-custom.php:882 functions/vc/vc-custom.php:1471
+msgid "Google+"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:854
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1116
+#: functions/vc/vc-custom.php:888 functions/vc/vc-custom.php:1489
+msgid "Dribbble"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:858
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1124
+#: functions/vc/vc-custom.php:900 functions/vc/vc-custom.php:1495
+msgid "Flickr"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:862
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1128
+#: functions/vc/vc-custom.php:906 functions/vc/vc-custom.php:1477
+msgid "Linkedin"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:866
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1136
+#: functions/vc/vc-custom.php:918 functions/vc/vc-custom.php:1501
+msgid "Instagram"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:870
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1140
+#: functions/vc/vc-custom.php:924 functions/vc/vc-custom.php:1483
+msgid "Skype"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:874
+#: functions/vc/vc-custom.php:1508 woocommerce/single-product-reviews.php:64
+msgid "Email"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:884
+#: functions/vc/vc-custom.php:995
+msgid "Message Box"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:886
+#: functions/vc/vc-custom.php:1024
+msgid "Message"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:889
+msgid "Message Type"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:891
+msgid "Success"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:892
+msgid "Info"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:893
+msgid "Error"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:894
+msgid "Warning"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:899
+#: functions/vc/vc-custom.php:1013
+msgid "Show Icon?"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:903
+#: functions/vc/vc-custom.php:1018
+msgid "Show close button?"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:916
+msgid "Pricing Table"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:921
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1330
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1362
+#: functions/vc/vc-custom.php:1151 functions/vc/vc-custom.php:1205
+#: functions/vc/vc-custom.php:1267
+msgid "How many columns would you like?"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:923
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1333
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1365
+msgid "Two"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:924
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1334
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1366
+msgid "Three"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:925
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1335
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1367
+msgid "Four"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:926
+msgid "Five"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:946
+msgid "Progress Bar"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:956
+msgid "Striped"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:967
+msgid "Service Box"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:973
+msgid "Style #1"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:974
+msgid "Style #2"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:975
+msgid "Style #3"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:976
+msgid "Style #4"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:977
+msgid "Style #5"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:978
+msgid "Style #6"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:979
+msgid "Style #7"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1001
+msgid "or Image, if you add Image it will be override the icon "
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1031
+#: functions/vc/vc-custom.php:333 functions/vc/vc-custom.php:511
+msgid "Button Icon"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1072
+msgid "Square + Border"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1074
+msgid "Circular + Border"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1076
+msgid "Colorful Square"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1077
+msgid "Colorful Circular"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1092
+msgid "Tooltip position or no tooltip"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1094
+msgid "No Tooltip"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1095
+msgid "Top Tooltip"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1096
+msgid "Right Tooltip"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1097
+msgid "Bottom Tooltip"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1098
+msgid "Left Tooltip"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1120
+#: functions/vc/vc-custom.php:894
+msgid "RSS"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1132
+#: functions/vc/vc-custom.php:912
+msgid "Pinterest"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1144
+#: functions/vc/vc-custom.php:930
+msgid "Tumblr"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1148
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1230
+#: functions/vc/vc-custom.php:936
+msgid "YouTube"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1152
+#: functions/vc/vc-custom.php:942
+msgid "Xing"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1156
+#: functions/vc/vc-custom.php:948
+msgid "Dropbox"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1160
+#: functions/vc/vc-custom.php:954
+msgid "StackExchange"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1164
+#: functions/vc/vc-custom.php:960
+msgid "BitBucket"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1168
+#: functions/vc/vc-custom.php:966
+msgid "Weibo"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1172
+#: functions/vc/vc-custom.php:972
+msgid "GitHub"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1176
+#: functions/vc/vc-custom.php:978
+msgid "FourSquare"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1186
+msgid "Table"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1195
+msgid "Tabs"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1209
+#: functions/vc/vc-custom.php:1040
+msgid "Toggle"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1212
+#: functions/vc/vc-custom.php:1052
+msgid "Open?"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1224
+msgid "Video"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1231
+msgid "Vimeo"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1232
+msgid "Daily Motion"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1235
+#: functions/vc/vc-custom.php:736 functions/vc/vc-custom.php:1341
+msgid "ID"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1235
+msgid ""
+"Id of video for e.g. https://www.youtube.com/watch?v=5ilc3w8Jmdo in this "
+"video of youtube ID is: 5ilc3w8Jmdo"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1238
+msgid "Autoplay?"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1248
+msgid "Recent Posts/Works/Clients"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1255
+msgid "Testimonials & Quotes"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1279
+msgid "Number of items to show"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1291
+msgid "11"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1292
+msgid "12"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1293
+msgid "13"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1294
+msgid "14"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1295
+msgid "15"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1296
+msgid "16"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1297
+msgid "17"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1298
+msgid "18"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1299
+msgid "19"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1300
+msgid "20"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1307
+#: functions/vc/vc-custom.php:1114 functions/vc/vc-custom.php:1162
+msgid ""
+"Please enter the testimonial category slug for filtering the result. "
+"(optional)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1311
+#: functions/vc/vc-custom.php:1124
+msgid "Please select the slider transition effect."
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1314
+msgid "Fade"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1332
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1364
+msgid "One"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1342
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1374
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1403
+msgid "Optional"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1347
+msgid ""
+"Please enter the Clients Category slug for filtering the result. (optional)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1357
+msgid "Portfolio Items + Carousel"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1379
+msgid ""
+"Please enter the Portfolio Category slug for filtering the result. (optional)"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1383
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1412
+#: functions/vc/vc-custom.php:1106 functions/vc/vc-custom.php:1208
+#: functions/vc/vc-custom.php:1270 functions/vc/vc-custom.php:1325
+msgid "Number of Items"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1384
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1413
+msgid "Please enter the number of items. e.g. 10"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1388
+#: functions/vc/vc-custom.php:1219 functions/vc/vc-custom.php:1282
+msgid "Turn it to Carousel?"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1398
+#: functions/vc/vc-custom.php:1261
+msgid "Recent Posts"
+msgstr ""
+
+#: functions/shortcodes/shortcode_generator/shortcodes-options.php:1408
+#: functions/vc/vc-custom.php:1278 functions/vc/vc-custom.php:1333
+msgid "Please enter the Category slug for filtering the result. (optional)"
+msgstr ""
+
+#: functions/vc/vc-custom.php:67 functions/vc/vc-custom.php:106
+#: functions/vc/vc-custom.php:213 functions/vc/vc-custom.php:390
+#: functions/vc/vc-custom.php:578 functions/vc/vc-custom.php:645
+#: functions/vc/vc-custom.php:708 functions/vc/vc-custom.php:731
+#: functions/vc/vc-custom.php:761 functions/vc/vc-custom.php:828
+#: functions/vc/vc-custom.php:998 functions/vc/vc-custom.php:1043
+#: functions/vc/vc-custom.php:1080 functions/vc/vc-custom.php:1144
+#: functions/vc/vc-custom.php:1192 functions/vc/vc-custom.php:1254
+#: functions/vc/vc-custom.php:1315 functions/vc/vc-custom.php:1390
+#: functions/vc/vc-custom.php:1436
+msgid "Official Custom Shortcodes"
+msgstr ""
+
+#: functions/vc/vc-custom.php:72 functions/vc/vc-custom.php:556
+#: functions/vc/vc-custom.php:766 functions/vc/vc-custom.php:1058
+#: functions/vc/vc-custom.php:1514
+msgid "Content"
+msgstr ""
+
+#: functions/vc/vc-custom.php:74
+msgid "Your Title"
+msgstr ""
+
+#: functions/vc/vc-custom.php:75 functions/vc/vc-custom.php:769
+msgid "Enter your title here"
+msgstr ""
+
+#: functions/vc/vc-custom.php:81
+msgid "You can set Icon for your title"
+msgstr ""
+
+#: functions/vc/vc-custom.php:165 functions/vc/vc-custom.php:336
+#: functions/vc/vc-custom.php:514
+msgid "You can set Icon for your button"
+msgstr ""
+
+#: functions/vc/vc-custom.php:181 functions/vc/vc-custom.php:358
+#: functions/vc/vc-custom.php:536
+msgid "URL"
+msgstr ""
+
+#: functions/vc/vc-custom.php:187 functions/vc/vc-custom.php:364
+#: functions/vc/vc-custom.php:542 functions/vc/vc-custom.php:847
+msgid "Target"
+msgstr ""
+
+#: functions/vc/vc-custom.php:233
+msgid "Please Select the Style of Action Box"
+msgstr ""
+
+#: functions/vc/vc-custom.php:254 functions/vc/vc-custom.php:430
+msgid "You can set Icon for your box"
+msgstr ""
+
+#: functions/vc/vc-custom.php:271
+msgid ""
+"You can add Image instead of Icon, if you add Image it will be override the "
+"icon"
+msgstr ""
+
+#: functions/vc/vc-custom.php:387
+msgid "Service Box (Featured Box)"
+msgstr ""
+
+#: functions/vc/vc-custom.php:405
+msgid "Please Select the Style of Service Box"
+msgstr ""
+
+#: functions/vc/vc-custom.php:448
+msgid ""
+"You can add Image instead of Icon, if you add Image it will be override the "
+"icon "
+msgstr ""
+
+#: functions/vc/vc-custom.php:456
+msgid "You can set button in bottom of box"
+msgstr ""
+
+#: functions/vc/vc-custom.php:559 functions/vc/vc-custom.php:1061
+#: functions/vc/vc-custom.php:1517
+msgid "Enter your content."
+msgstr ""
+
+#: functions/vc/vc-custom.php:573
+msgid "Wrap Section (Parallax)"
+msgstr ""
+
+#: functions/vc/vc-custom.php:583
+msgid "Background color"
+msgstr ""
+
+#: functions/vc/vc-custom.php:586
+msgid "Choose Background color"
+msgstr ""
+
+#: functions/vc/vc-custom.php:590
+msgid "Border color"
+msgstr ""
+
+#: functions/vc/vc-custom.php:593
+msgid "Choose border color"
+msgstr ""
+
+#: functions/vc/vc-custom.php:599
+msgid "Add background image"
+msgstr ""
+
+#: functions/vc/vc-custom.php:602
+msgid "Shadow?"
+msgstr ""
+
+#: functions/vc/vc-custom.php:604 functions/vc/vc-custom.php:610
+#: functions/vc/vc-custom.php:1015 functions/vc/vc-custom.php:1020
+#: functions/vc/vc-custom.php:1054 functions/vc/vc-custom.php:1221
+#: functions/vc/vc-custom.php:1284 functions/vc/vc-custom.php:1373
+msgid "Yes, please"
+msgstr ""
+
+#: functions/vc/vc-custom.php:605
+msgid "Turn On inner shadow?"
+msgstr ""
+
+#: functions/vc/vc-custom.php:608
+msgid "Parallax?"
+msgstr ""
+
+#: functions/vc/vc-custom.php:611
+msgid "Turn On Parallax effect?"
+msgstr ""
+
+#: functions/vc/vc-custom.php:619
+msgid "Parallax Ratio"
+msgstr ""
+
+#: functions/vc/vc-custom.php:626
+msgid ""
+"Enter Parallax movement ratio , Number only, for fix background use 0, "
+"default is 0.6"
+msgstr ""
+
+#: functions/vc/vc-custom.php:686 functions/vc/vc-custom.php:693
+msgid "Please enter the margin top. e.g. 40px or 3em"
+msgstr ""
+
+#: functions/vc/vc-custom.php:705
+msgid "Gap (Vertical Space)"
+msgstr ""
+
+#: functions/vc/vc-custom.php:716
+msgid ""
+"Please enter the height of space you want. e.g. 30 (Do not need to add px)"
+msgstr ""
+
+#: functions/vc/vc-custom.php:728
+msgid "Anchor"
+msgstr ""
+
+#: functions/vc/vc-custom.php:738
+msgid "Please set anchor ID and then set link to it by # tag"
+msgstr ""
+
+#: functions/vc/vc-custom.php:743
+msgid "Padding Top"
+msgstr ""
+
+#: functions/vc/vc-custom.php:746
+msgid "Please set padding top (default is 120px)"
+msgstr ""
+
+#: functions/vc/vc-custom.php:784
+msgid "e.g. 48px or 3em"
+msgstr ""
+
+#: functions/vc/vc-custom.php:792
+msgid "Choose text color"
+msgstr ""
+
+#: functions/vc/vc-custom.php:799
+msgid "Please enter the margin. e.g. 5em or 10px 20px"
+msgstr ""
+
+#: functions/vc/vc-custom.php:843
+msgid "Please Select the Style of Social Icons"
+msgstr ""
+
+#: functions/vc/vc-custom.php:872 functions/vc/vc-custom.php:1461
+msgid "e.g. http://www.facebook.com/envato (with http://)"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1026
+msgid "Your message here!"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1060
+msgid "Lorem ipsum dolor sit..."
+msgstr ""
+
+#: functions/vc/vc-custom.php:1077
+msgid "Testimonial & Quotes Carousel"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1117
+msgid "Transition effect"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1166 functions/vc/vc-custom.php:1225
+#: functions/vc/vc-custom.php:1288
+msgid "Next and Previuse Icon Position"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1189
+msgid "Portfolio Items & Carousel"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1199
+msgid "Recent Works"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1215
+msgid ""
+"Please enter the portfolio category slug for filtering the result. (optional)"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1251
+msgid "Recent Posts & Carousel"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1312
+msgid "News Ticker"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1322
+msgid "Breaking News"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1337
+msgid "Order by"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1342
+msgid "Author"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1344
+msgid "Modified"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1345
+msgid "Random"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1346
+msgid "Comment count"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1347
+msgid "Menu order"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1349
+#, php-format
+msgid "Select how to sort retrieved posts. More at %s."
+msgstr ""
+
+#: functions/vc/vc-custom.php:1353
+msgid "Order way"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1356
+msgid "Descending"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1357
+msgid "Ascending"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1359
+#, php-format
+msgid "Designates the ascending or descending order. More at %s."
+msgstr ""
+
+#: functions/vc/vc-custom.php:1364
+msgid "Title Color"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1367
+msgid "Choose title color"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1371
+msgid "Blinking Title?"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1387
+msgid "Countdown Timer"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1398
+msgid ""
+"Please enter your target date like this: 30 December 2015 23:59:59 (Your "
+"time must be in future)"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1408
+msgid "Extra Large"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1413
+msgid "Align"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1433
+msgid "Member"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1447
+msgid "Job Role"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1450
+msgid "e.g. CEO, Manager, Designer and ...)"
+msgstr ""
+
+#: functions/vc/vc-custom.php:1516
+msgid "your content goes here!"
+msgstr ""
+
+#: functions/widgets/widget-ads.php:17
+msgid "Displays ads."
+msgstr ""
+
+#: functions/widgets/widget-ads.php:39 functions/widgets/widget-contact.php:37
+#: functions/widgets/widget-embed.php:32
+#: functions/widgets/widget-facebook.php:27
+#: functions/widgets/widget-flickr.php:32
+msgid "Title: <small>(Optional)</small>"
+msgstr ""
+
+#: functions/widgets/widget-ads.php:48
+msgid "Ads #1 Link:"
+msgstr ""
+
+#: functions/widgets/widget-ads.php:53
+msgid "Ads #1 Image URL:"
+msgstr ""
+
+#: functions/widgets/widget-ads.php:58
+msgid "Ads #2 Link:"
+msgstr ""
+
+#: functions/widgets/widget-ads.php:63
+msgid "Ads #2 Image URL:"
+msgstr ""
+
+#: functions/widgets/widget-ads.php:68
+msgid "Ads #3 Link:"
+msgstr ""
+
+#: functions/widgets/widget-ads.php:73
+msgid "Ads #3 Image URL:"
+msgstr ""
+
+#: functions/widgets/widget-ads.php:78
+msgid "Ads #4 Link:"
+msgstr ""
+
+#: functions/widgets/widget-ads.php:83
+msgid "Ads #4 Image URL:"
+msgstr ""
+
+#: functions/widgets/widget-combo-tabs.php:17
+msgid "Displays Most Popular, Recent Posts, Recent Comments and Tags by Tabs"
+msgstr ""
+
+#: functions/widgets/widget-combo-tabs.php:33
+#: functions/widgets/widget-twitter.php:42
+msgid "Number of Posts:"
+msgstr ""
+
+#: functions/widgets/widget-combo-tabs.php:39
+msgid "Show Thumbnail"
+msgstr ""
+
+#: functions/widgets/widget-combo-tabs.php:44
+msgid "Show Date"
+msgstr ""
+
+#: functions/widgets/widget-combo-tabs.php:48
+msgid "Date Display Format:"
+msgstr ""
+
+#: functions/widgets/widget-combo-tabs.php:87
+msgid "Popular"
+msgstr ""
+
+#: functions/widgets/widget-combo-tabs.php:88
+msgid "Recent"
+msgstr ""
+
+#: functions/widgets/widget-combo-tabs.php:90
+msgid "Tags"
+msgstr ""
+
+#: functions/widgets/widget-combo-tabs.php:131
+#: functions/widgets/widget-combo-tabs.php:194
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: functions/widgets/widget-contact.php:17
+msgid "Displays a quick contact information"
+msgstr ""
+
+#: functions/widgets/widget-contact.php:23
+msgid "Contact"
+msgstr ""
+
+#: functions/widgets/widget-contact.php:43
+msgid "Address:"
+msgstr ""
+
+#: functions/widgets/widget-contact.php:50
+msgid "Tel:"
+msgstr ""
+
+#: functions/widgets/widget-contact.php:56
+msgid "Fax:"
+msgstr ""
+
+#: functions/widgets/widget-contact.php:62
+#: woocommerce/order/order-details.php:101
+msgid "Email:"
+msgstr ""
+
+#: functions/widgets/widget-contact.php:68
+msgid "Map URL:"
+msgstr ""
+
+#: functions/widgets/widget-contact.php:125
+msgid "See Map"
+msgstr ""
+
+#: functions/widgets/widget-embed.php:17
+msgid "Displays Embed Videos"
+msgstr ""
+
+#: functions/widgets/widget-embed.php:36
+msgid "Embed Code:"
+msgstr ""
+
+#: functions/widgets/widget-embed.php:42
+msgid "Youtube Video ID:"
+msgstr ""
+
+#: functions/widgets/widget-embed.php:48
+msgid "Vimeo Video ID:"
+msgstr ""
+
+#: functions/widgets/widget-embed.php:54
+msgid "Description: (optional)"
+msgstr ""
+
+#: functions/widgets/widget-facebook.php:17
+msgid "Displays a Facebook Box"
+msgstr ""
+
+#: functions/widgets/widget-facebook.php:32
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: functions/widgets/widget-facebook.php:38
+msgid "Color Scheme:"
+msgstr ""
+
+#: functions/widgets/widget-facebook.php:47
+msgid "Show faces"
+msgstr ""
+
+#: functions/widgets/widget-facebook.php:52
+msgid "Show stream"
+msgstr ""
+
+#: functions/widgets/widget-facebook.php:57
+msgid "Show facebook header"
+msgstr ""
+
+#: functions/widgets/widget-flickr.php:17
+msgid "Displays Flickr Photos"
+msgstr ""
+
+#: functions/widgets/widget-flickr.php:36
+msgid "Flickr ID:"
+msgstr ""
+
+#: functions/widgets/widget-flickr.php:38
+msgid "Find your Flickr ID @ idGettr"
+msgstr ""
+
+#: functions/widgets/widget-flickr.php:42
+msgid "Number of Photos:"
+msgstr ""
+
+#: functions/widgets/widget-portfolio.php:17
+msgid "Displays Recent Portfolio Projects"
+msgstr ""
+
+#: functions/widgets/widget-portfolio.php:30
+#: functions/widgets/widget-subscription.php:28
+#: functions/widgets/widget-twitter.php:33
+msgid "Title:"
+msgstr ""
+
+#: functions/widgets/widget-portfolio.php:35
+msgid "Number of items to show:"
+msgstr ""
+
+#: functions/widgets/widget-subscription.php:18
+msgid "Subscription by Google Feedburner."
+msgstr ""
+
+#: functions/widgets/widget-subscription.php:53
+msgid "Type Your Email"
+msgstr ""
+
+#: functions/widgets/widget-twitter.php:17
+msgid "Displays Twitter tweets"
+msgstr ""
+
+#: functions/widgets/widget-twitter.php:37
+msgid "Twitter Username:"
+msgstr ""
+
+#: functions/widgets/widget-twitter.php:47
+msgid "Loading Text:"
+msgstr ""
+
+#: functions/widgets/widget-twitter.php:54
+msgid "Show Avatar"
+msgstr ""
+
+#: woocommerce/content-single-product.php:78
+msgid "All Products"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:21
+#, php-format
+msgid "%s review for %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:23
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:44
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:57
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:57
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:16
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:20
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:16
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:18
+msgid "Shipping and Handling"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:55
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:59
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:63
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:72 woocommerce/cart/cart-shipping.php:78
+msgid ""
+"There doesn&lsquo;t seem to be any available shipping methods. Please double "
+"check your address, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:93
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:16
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:21
+#: woocommerce/checkout/review-order.php:25
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:75
+#: woocommerce/checkout/review-order.php:79
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:87
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:27 woocommerce/checkout/form-pay.php:19
+#: woocommerce/checkout/review-order.php:18
+#: woocommerce/order/order-details.php:20
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/checkout/review-order.php:19
+#: woocommerce/myaccount/my-orders.php:35
+#: woocommerce/order/order-details.php:21
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:74
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:118
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:118 woocommerce/checkout/form-coupon.php:26
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:118 woocommerce/checkout/form-coupon.php:30
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:125
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:125
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:51
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:59
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:64
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:65
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:28
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:45
+#: woocommerce/cart/shipping-calculator.php:51
+#: woocommerce/cart/shipping-calculator.php:63
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:52
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:72
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:80
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:85
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:16
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:20
+msgid "Return To Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:15
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:19
+msgid "Billing Details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:38
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:49
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:19
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:15
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:20
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:21
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:54
+msgid "Payment"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:89
+msgid "Pay for order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:29
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:55
+#: woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:150
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:163
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:163
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:170
+msgid "Place order"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:179
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28 woocommerce/myaccount/my-orders.php:71
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+msgid "Order:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:63
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:91 woocommerce/global/breadcrumb.php:189
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:193
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:198
+msgid "Author:"
+msgstr ""
+
+#: woocommerce/global/form-login.php:22
+#: woocommerce/myaccount/form-lost-password.php:23
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:26
+#: woocommerce/myaccount/form-login.php:38
+#: woocommerce/myaccount/form-login.php:88
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:35
+#: woocommerce/myaccount/form-login.php:27
+#: woocommerce/myaccount/form-login.php:46
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:38
+#: woocommerce/myaccount/form-login.php:48
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:42
+#: woocommerce/myaccount/form-login.php:52
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:14
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: woocommerce/loop/result-count.php:31
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:33
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:56
+msgid "Default sorting"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:57
+msgid "Sort by popularity"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:58
+msgid "Sort by average rating"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:59
+msgid "Sort by newness"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:60
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:61
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:16
+#: woocommerce/single-product/sale-flash.php:16
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:40
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:48
+msgid "Add Payment Method"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:20
+#: woocommerce/myaccount/form-lost-password.php:30
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:24
+#: woocommerce/myaccount/form-lost-password.php:34
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:29
+#: woocommerce/myaccount/form-lost-password.php:45
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:20
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:24
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:28
+#: woocommerce/myaccount/form-login.php:81
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:32
+msgid "Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:36
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:41
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:16
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+#: woocommerce/order/order-details.php:118
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:16
+#: woocommerce/myaccount/my-address.php:20
+#: woocommerce/order/order-details.php:133
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:40
+msgid "Save Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:34
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:65
+#: woocommerce/myaccount/form-login.php:102
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:74
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:95
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:21
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:27
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:45
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:24
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:45
+msgid "Edit"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:18
+msgid "Available downloads"
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:27
+#, php-format
+msgid "%s download remaining"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:62
+#, php-format
+msgid "%s for %s item"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:78
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:84
+msgid "View"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:19
+#, php-format
+msgid ""
+"Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:23 woocommerce/order/tracking.php:31
+msgid "Order Updates"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:29 woocommerce/order/tracking.php:37
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:17
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+msgid "Billing Email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:23
+msgid "Track"
+msgstr ""
+
+#: woocommerce/order/order-details.php:16
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:66
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: woocommerce/order/order-details.php:97
+msgid "Customer details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:102
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details.php:122
+#: woocommerce/order/order-details.php:137
+#: woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/tracking.php:18
+#, php-format
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/order/tracking.php:18
+msgid "ago"
+msgstr ""
+
+#: woocommerce/order/tracking.php:20
+msgid "and was completed"
+msgstr ""
+
+#: woocommerce/order/tracking.php:20
+msgid " ago"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:23
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:25
+#: woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:28
+#, php-format
+msgid "%s customer review"
+msgstr ""
+
+#: woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:43
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:25
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:73
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:103
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""

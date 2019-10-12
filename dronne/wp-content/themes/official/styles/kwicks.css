@@ -1,0 +1,113 @@
+/*!
+ *  Kwicks: Sexy Sliding Panels for jQuery - v2.1.0
+ *  http://devsmash.com/projects/kwicks
+ *
+ *  Copyright 2013 Jeremy Martin (jmar777)
+ *  Contributors: Duke Speer (Duke3D)
+ *  Released under the MIT license
+ *  http://www.opensource.org/licenses/mit-license.php
+ */
+/*
+ *  This file contains styles that are common to all kwicks instances.  Note that each kwicks instance requires
+ *  additional styling - please see the examples for more info.
+ */
+
+.kwicks {
+	display: block;
+	list-style-type: none;
+	list-style: none;
+	position: relative;
+	margin: 0;
+	padding: 0;
+}
+.kwicks > * {
+	display: block;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+}
+.kwicks.kwicks-processed > * {
+	margin: 0;
+	position: absolute;
+}
+.kwicks-horizontal > * {
+	float: left;
+}
+.kwicks-horizontal > :first-child {
+	margin-left: 0;
+}
+.kwicks-vertical > :first-child {
+	margin-top: 0;
+}
+
+
+
+
+
+/************************************/
+/* Custom CSS ***********************/
+/************************************/
+
+
+.kwickslider{
+	 position:relative;
+	 width:1060px;
+	 margin:30px auto 0;
+	 }
+	 
+.kwickslider ul{
+	width:1060px;
+	overflow:hidden;
+	}
+	
+.kwickslider ul.rad {
+	border-radius:5px;
+	}	
+	
+.kwickslider ul li{
+	position:relative;
+	-webkit-box-shadow:-7px 1px 11px rgba(0, 0, 0, 0.5); 
+       -moz-box-shadow:-7px 1px 11px rgba(0, 0, 0, 0.5);
+			box-shadow:-7px 1px 11px rgba(0, 0, 0, 0.5);
+
+	}
+.kwickslider ul li a{
+	display:inline-block;
+	color:#eee;
+	}
+
+.kwickslider ul li a:hover{
+	color:#fff;
+	}
+			
+.kwick_caption {
+	background:#333;
+	background:rgba(0,0,0,.5);
+	color:#eee;
+	padding:10px 0;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+	position:absolute;
+	bottom:0;
+	}
+	
+.kwick_caption:hover {
+	background:#111;
+	background:rgba(0,0,0,.8);
+	}
+	
+.kwick_caption h4{
+	color:#fff !important;
+	text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.65);
+	width:29%;
+	float:left;
+	font-size:18px;
+	text-align:center;
+	margin:6px 0 12px;
+	}
+	
+.kwick_caption_text{
+	float:left;
+	width:71%;
+	line-height:14px;
+	margin-top:6px;
+	}

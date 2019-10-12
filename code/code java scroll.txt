@@ -1,0 +1,16 @@
+     <link rel="Stylesheet" type="text/css" href="scroll/css/smoothDivScroll.css" />    
+    <script src="scroll/js/jquery.ui.widget.js" type="text/javascript"></script> 
+	<script src="scroll/js/jquery.smoothDivScroll-1.1-min.js" type="text/javascript"></script>
+    <script src="scroll/jquery.smoothDivScroll-1.1-min.js" type="text/javascript"></script> 
+ 	<script type="text/javascript">
+	$(window).load(function() {
+		$("div#makeMeScrollable").smoothDivScroll({ 
+			autoScroll: "onstart" , 
+			autoScrollDirection: "backandforth", 
+			autoScrollStep: 1, 
+			autoScrollInterval: 15,	
+			startAtElementId: "startAtMe", 
+			visibleHotSpots: "always"
+		});
+	});
+	</script>

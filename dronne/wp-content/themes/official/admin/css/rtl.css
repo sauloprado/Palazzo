@@ -1,0 +1,27 @@
+/********************************/
+/* CSS Document For RTL SUPPORT */
+/******* by Tohid GOlkar ********/
+/***** www.tohidgolkar.com ******/
+/********************************/
+
+
+
+#optionsframework-wrap,
+#wpbody-content .metabox-holder,
+#optionsframework-wrap .option_header
+	{
+	float:right;
+	direction:ltr;
+	}
+	
+h2.nav-tab-wrapper, h3.nav-tab-wrapper{margin:0;border-bottom: medium none;}
+h2 .nav-tab,
+#optionsframework .section .heading,
+#optionsframework .section .explain
+{text-align:left}
+
+h2.nav-tab-wrapper, h3.nav-tab-wrapper {
+    padding: 0 0 0 1px;
+}
+
+#optionsframework-wrap .option_header .logo h2{margin:6px 10px 0}

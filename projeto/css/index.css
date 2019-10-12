@@ -1,0 +1,285 @@
+.version.index /* version checker */
+{
+	color: #0000FC;
+	background-color: #A30AA9;
+}
+
+.html
+{
+	background-color: #000000;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 729px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pu72
+{
+	width: 0.01px;
+	margin-left: 80px;
+}
+
+#u72
+{
+	z-index: 2;
+	width: 800px;
+	padding-bottom: 80px;
+	margin-right: -10000px;
+}
+
+#u80
+{
+	z-index: 10;
+	width: 300px;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 31px;
+}
+
+#u88
+{
+	z-index: 12;
+	width: 150px;
+	padding-bottom: 7px;
+	margin-right: -10000px;
+	margin-top: 146px;
+	left: 25px;
+}
+
+#u93-4
+{
+	z-index: 13;
+	width: 40px;
+	margin-right: -10000px;
+	margin-top: 30px;
+	left: 55px;
+}
+
+#u94
+{
+	z-index: 17;
+	width: 150px;
+	padding-bottom: 7px;
+	margin-right: -10000px;
+	margin-top: 146px;
+	left: 175px;
+}
+
+#u95-4
+{
+	z-index: 18;
+	width: 54px;
+	margin-right: -10000px;
+	margin-top: 30px;
+	left: 48px;
+}
+
+#u96
+{
+	z-index: 22;
+	width: 150px;
+	padding-bottom: 7px;
+	margin-right: -10000px;
+	margin-top: 146px;
+	left: 325px;
+}
+
+#u97-4
+{
+	z-index: 23;
+	width: 66px;
+	margin-right: -10000px;
+	margin-top: 30px;
+	left: 42px;
+}
+
+#u98
+{
+	z-index: 27;
+	width: 150px;
+	padding-bottom: 7px;
+	margin-right: -10000px;
+	margin-top: 146px;
+	left: 475px;
+}
+
+#u99-4
+{
+	z-index: 28;
+	width: 58px;
+	margin-right: -10000px;
+	margin-top: 30px;
+	left: 46px;
+}
+
+#u103-3
+{
+	z-index: 32;
+	width: 150px;
+	min-height: 54px;
+	margin-right: -10000px;
+	margin-top: 146px;
+	left: 626px;
+}
+
+#u101-4
+{
+	z-index: 35;
+	width: 58px;
+	margin-right: -10000px;
+	margin-top: 176px;
+	left: 672px;
+}
+
+#pu73
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u73,#u73-bw
+{
+	z-index: 3;
+	height: 460px;
+}
+
+#u75
+{
+	z-index: 5;
+	width: 800px;
+	height: 460px;
+	margin-right: -10000px;
+	left: 180px;
+}
+
+#slideshowu250
+{
+	z-index: 39;
+	width: 0.01px;
+	height: 460px;
+	position: relative;
+	margin-right: -10000px;
+	left: 180px;
+}
+
+#u256
+{
+	position: absolute;
+	width: 800px;
+	height: 460px;
+	background-color: transparent;
+}
+
+#u256popup
+{
+	z-index: 40;
+}
+
+#u257
+{
+	z-index: 41;
+	width: 800px;
+	height: 460px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u291
+{
+	z-index: 43;
+	width: 800px;
+	height: 460px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u300
+{
+	z-index: 45;
+	width: 800px;
+	height: 460px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u309
+{
+	z-index: 47;
+	width: 800px;
+	height: 460px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u318
+{
+	z-index: 49;
+	width: 800px;
+	height: 460px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	margin-right: -10000px;
+	position: relative;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#u74
+{
+	z-index: 4;
+	width: 799px;
+	padding-bottom: 42px;
+	margin-left: 80px;
+}
+
+#u78-4
+{
+	z-index: 6;
+	width: 543px;
+	min-height: 15px;
+	margin-right: -10000px;
+	margin-top: 42px;
+	left: 128px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

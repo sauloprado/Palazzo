@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Efeito</title>
+<link href="shadowbox-3.0.3/shadowbox.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="shadowbox-3.0.3/shadowbox.js"></script>
+<script type="text/javascript">
+Shadowbox.init({
+language: 'pt',
+player: ['img', 'html', 'swf']
+});
+</script>
+<link href="css/estilo.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="corpo">
+<h2>GALERIA DE EFEITOS WEBCAMPINAS</h2>
+
+ABRIR HTML
+
+<a title="WebCampinas" href="http://www.webcampinas.net" rel="shadowbox">WebCampinas</a><br />
+
+ABRIR YOUTUBE VÍDEO
+
+<a title="WebCampinas" href="http://www.youtube.com/embed/czslYwkTjoc" rel="shadowbox;width=600;height=450">Youtube</a><br />
+
+ABRIR IMAGEM
+
+<a title="WebCampinas" href="04.jpg" rel="shadowbox">04</a><br />
+
+ABRIR GALERIA DE IMAGEM
+
+<a title="WebCampinas" href="01.jpg" rel="shadowbox[vocation]">01</a>
+<a title="WebCampinas" href="02.jpg" rel="shadowbox[vocation]">02</a>
+<a title="WebCampinas" href="03.jpg" rel="shadowbox[vocation]">03</a>
+<br />
+
+ABRIR DIV
+
+<a rel="shadowbox" href="#upinside">Abrir Div</a>
+ <div id="upinside" style="display:none;">
+ <div id="up_content" style="color:#FFF; padding:10px;">
+ Todo conteúdo a mostrar na div da galeria vai aqui!
+ </div><!--upinside-->
+</div><!--up_content-->
+</div>
+</body>
+</html>

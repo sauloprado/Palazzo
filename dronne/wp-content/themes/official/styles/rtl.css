@@ -1,0 +1,682 @@
+body {
+	direction: rtl
+}
+.grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12 {
+	
+}
+.alpha {
+	margin-right: 1% !important;
+	margin-left: 0 !important;
+}
+.omega {
+	margin-left: 1% !important;
+	margin-right: 0 !important;
+}
+.sf-menu {
+	float: right !important;
+	margin: 0 !important
+}
+.sf-menu li {
+	float: right !important
+}
+.sf-menu li:before {
+	left: auto;
+	right: 0
+}
+.logo {
+	float: right
+}
+.header_ads {
+	float: left
+}
+#header .search {
+	float: left !important;
+}
+#header .search button {
+	right: auto !important;
+	left: 10px !important
+}
+.headdown .social-head {
+	float: left !important;
+	margin: 6px 10px 6px 0 !important
+}
+.sf-menu li:hover ul, .sf-menu li.sfHover ul {
+	left: auto !important;
+	right: 0 !important
+}
+ul.sf-menu li li:hover ul, ul.sf-menu li li.sfHover ul {
+	left: auto !important;
+	right: 172px !important
+}
+.loop_box_one .first-post {
+	float: right
+}
+.loop_box_one .more-posts {
+	float: right;
+	margin: 0 20px 20px 0
+}
+.loop_box_one .more-posts .post-thumbnail {
+	float: right;
+	margin: 0 0 0 16px
+}
+.breaking-news-bar .title {
+	float: right;
+	padding: 0 0 0 16px
+}
+.tickercontainer {
+	border-left: 0;
+	border-right: 1px solid #D8D5D5
+}
+.sf-menu i {
+	margin-right: 0;
+	margin-left: 8px
+}
+ul.newsticker li {
+	float: right
+}
+.metro-social i {
+	float: left
+}
+.metro-social li:first-child i {
+	float: none
+}
+.metro-social li:first-child {
+	width: 48%
+}
+div.jp-audio,.owl-carousel .owl-stage-outer,.revolution, .anyClass, div.pp_pic_holder, .knob-box .knob, .flexslider, .official-map, .flex-viewport, .slides, .knob, .ltr, .clients, .anymore, .modern-slider {
+	direction: ltr !important
+}
+.magazine-carousel .nexte {
+	right: auto;
+	left: 16px
+}
+.magazine-carousel .preve {
+	left: 0;
+	right: auto
+}
+.magazine-carousel .detailes {
+	text-align: right
+}
+#toTop i {
+	padding: 8px 12px 0 0
+}
+.loop_box_one .date i, .tab-content-items i, .tags i, .loop_box_one .view i, .list i {
+	padding-left: 4px;
+	padding-right: 0
+}
+.tags a:before, .widget_tag_cloud a:before, .widget_official_tags a:before, .wp-tag-cloud li a:before, .tagcloud a:before {
+    padding-right:0;
+	padding-right:5px;
+}
+.tab-content-items .post-thumbnail {
+	float: right;
+	margin: 0 0 0 10px
+}
+.tabs li, .wpb_tabs_nav li {
+	float: right;
+	margin: 0 !important;
+}
+.tabs li a {
+	border-right: 1px solid #E6E6E6;
+	border-left: 0;
+}
+.tabs i {
+    margin:0 0 0 7px;
+}
+.tabs li:last-child{border-left: 1px solid #E6E6E6;}
+
+ul.liststyle i{margin-left:5px}
+
+#contactForm-widget span {
+	margin-right: 10px;
+	margin-left: 0
+}
+.newsletter_row #newsletters button {
+	top: 11px;
+	right: auto;
+	left: 14px
+}
+.widget #searchwidget button, #newsletters button {
+	top: 6px;
+	right: auto;
+	left: 14px
+}
+.foot-menu li {
+	float: right
+}
+.foot-menu li:before {
+	right: -1px;
+	left: auto
+}
+.loop_box_one .first-post .post-meta-ab span {
+	margin-left: 0;
+	margin-right: 20px
+}
+.tp-caption.big_white {
+	padding: 6px 10px !important
+}
+
+.sf-menu li li a:hover {
+	padding-right: 22px;
+	padding-left: 0
+}
+.info,.info span {
+	float: left
+}
+.info i {
+    margin: 0 15px 0 5px;
+}
+.social-head {
+	float: left
+}
+.service-icon {
+	float: right;
+	margin: 0 0 0 15px !important
+}
+.services h4 {
+	float: right;
+	padding: 0 15px 0 0;
+	border-left: 0;
+	border-right: 1px solid #CCC
+}
+.services .tbutton {
+	float: left
+}
+#testimonials .flex-direction-nav .flex-next {
+	right: auto;
+	left: 18px
+}
+#testimonials .flex-direction-nav .flex-prev {
+	right: auto;
+	left: 0
+}
+.testimonial p{text-align:right;direction:rtl}
+.from-meta a {
+	margin: 0 8px 0 0
+}
+.action-one .action-t, .action-one .action-t i, .page-title {
+	float: right
+}
+.action-one .action-button, .breadcrumbIn {
+	float: left
+}
+.breadcrumbIn li:before {
+	right: -6px;
+	left: auto
+}
+.widget .right-arrow a i {
+	right: auto;
+	left: 0
+}
+.widget .right-arrow a:hover i, .widget .right-arrow a:hover i {
+	-webkit-animation: fadeInLeft .5s;
+	animation: fadeInLeft .5s;
+}
+.accordion-head-sign, .toggle-head-sign {
+	float: right;
+	margin: 0 -20px 0 10px
+}
+.blockquote {
+	border-left: 0;
+	border-right: 5px solid #E6E6E6
+}
+.dropcap, .dropcap-txt, .dropcap-border {
+	margin: 0px 0 8px 16px;
+	float: right
+}
+ol li {
+	margin: 0 20px 0 0;
+}
+.Bhead span {
+	left: 20px;
+	right: auto;
+}
+.Bhead .table-badge {
+	right: -12px;
+	left: auto
+}
+.table tfoot td {
+	text-align: right
+}
+.client-avat {
+	right: 2px;
+	left: auto
+}
+.testimonial-s .testimonial-details {
+	margin: 0px 50px 8px 0;
+	float: right;
+	text-align: right
+}
+.testimonial-arrow {
+	right: 40px;
+	left: auto
+}
+.testimonial-arrow2 {
+	border-width: 20px 0 0 20px;
+	right: 20px;
+	left: auto
+}
+.testimonial-details2 {
+	padding: 10px 10px 0;
+	float: right
+}
+
+.cbp_tmtimeline:before {
+	right: 26px;
+	left: auto;
+}
+.cbp_tmtimeline > li .cbp_tmicon {
+	left: auto;
+	right: -14px;
+	top: -22px;
+	margin: 0 0 0 -25px
+}
+.sec_testimonials .cbp_tmtimeline > li .cbp_tmicon {
+	width: 60px;
+	height: 60px;
+	top: 2px;
+	margin: 0 6px 0 2px
+}
+.cbp_tmtimeline > li .cbp_tmlabel {
+	margin: 0 84px 50px 1px;
+	text-align: right
+}
+.cbp_tmtimeline > li .cbp_tmlabel:after {
+	right: -11px;
+	left: auto;
+	border-top: 10px solid rgba(0, 0, 0, 0);
+	border-bottom: 10px solid rgba(0, 0, 0, 0);
+	border-left: 10px solid #050505;
+	border-right: 0
+}
+
+#testimonials .cbp_tmtimeline > li .cbp_tmicon {
+	left: auto;
+	right: 6px;
+	top: -1px;
+	margin: 0 0 0 -25px
+}
+#testimonials .sec_testimonials .cbp_tmtimeline > li .cbp_tmicon {
+	width: 60px;
+	height: 60px;
+	top: 2px;
+	margin: 0 6px 0 2px
+}
+#testimonials .cbp_tmtimeline > li .cbp_tmlabel {
+	margin: 0 84px 50px 1px;
+	text-align: right
+}
+#testimonials .cbp_tmtimeline > li .cbp_tmlabel:after {
+	right: -11px;
+	left: auto;
+	border-top: 10px solid rgba(0, 0, 0, 0);
+	border-bottom: 10px solid rgba(0, 0, 0, 0);
+	border-left: 10px solid #050505;
+	border-right: 0
+}
+a.notification-close {
+	left: 20px;
+	right: auto
+}
+.notification-box p i {
+	padding-left: 10px;
+	border-left: 1px solid;
+	margin-left: 10px;
+	padding-right: 0;
+	border-right: 0;
+	margin-right: 0
+}
+.progress-bar .progress-bar-text {
+	right: 8px;
+	left: auto
+}
+.meta-more span {
+	margin-left: 0;
+	margin-right: 20px
+}
+.meta-more span:first-child {
+	margin-right: 0
+}
+.image-author {
+	float: right
+}
+.post .tbutton, .two-column .tbutton, .three-column .tbutton {
+	float: left
+}
+.blockquote-post span {
+	left: 20px;
+	right: auto
+}
+ul.showcomments .thumb {
+	float: right;
+	margin: 0 0 0 30px
+}
+ul.showcomments span.date {
+	float: left
+}
+.eventon_events_list .eventon_list_event .evcal_desc {margin-right: 5px;padding: 3px 80px 0 15px}
+.eventon_events_list .eventon_list_event a.evcal_list_a {border-right-width: 3px;border-right-style: solid;border-left: 0;}
+.eventon_events_list .eventon_list_event a.desc_trig:hover {border-right-width: 7px}
+.eventon_fullcal .evo_fc_day {float: right}
+.filterable li:before {
+	left: auto;
+	right: -6px
+}
+.filterable ul.filter {
+	margin: 0 20px 0 0
+}
+.portfolio .hover-fx span {
+	padding: 10px 12px 0 0
+}
+.single-first-row h4 {
+	float: right
+}
+.project-links {
+	float: left
+}
+.service-i i, .service-ii i {
+	margin: 0 0 0 8px
+}
+.service-older i {
+	padding-left: 8px;
+	padding-right: 0;
+}
+.client-carousel .preve {
+	left: 0;
+	right: auto;
+}
+.client-carousel .nexte {
+	left: 16px;
+	right: auto;
+}
+.forum .table th, .forum .table td {
+	text-align: right;
+	padding: 16px 20px 16px 10px
+}
+.forum-items a {
+	margin: 0 10px 6px 0
+}
+.forum-items .topic-time {
+	margin: 0 38px 0 0
+}
+.mr {
+	margin-right: 0;
+	margin-left: 8px
+}
+.bbp-pagination-count, #bbpress-forums div.bbp-forum-author, #bbpress-forums div.bbp-topic-author, #bbpress-forums div.bbp-reply-author, #bbpress-forums li.bbp-header .bbp-search-author, #bbpress-forums li.bbp-footer .bbp-search-author, #bbpress-forums li.bbp-header .bbp-forum-author, #bbpress-forums li.bbp-footer .bbp-forum-author, #bbpress-forums li.bbp-header .bbp-topic-author, #bbpress-forums li.bbp-footer .bbp-topic-author, #bbpress-forums li.bbp-header .bbp-reply-author, #bbpress-forums li.bbp-footer .bbp-reply-author {
+	float: right
+}
+#bbpress-forums div.bbp-forum-content, #bbpress-forums div.bbp-topic-content, #bbpress-forums div.bbp-reply-content {
+	margin-right: 130px;
+	margin-left: 0;
+	padding: 12px 0 12px 12px;
+	text-align: right
+}
+table.shop_table, .woocommerce table.shop_table, #bbpress-forums li.bbp-header .bbp-search-content, #bbpress-forums li.bbp-footer .bbp-search-content, #bbpress-forums li.bbp-header .bbp-forum-content, #bbpress-forums li.bbp-footer .bbp-forum-content, #bbpress-forums li.bbp-header .bbp-topic-content, #bbpress-forums li.bbp-footer .bbp-topic-content, #bbpress-forums li.bbp-header .bbp-reply-content, #bbpress-forums li.bbp-footer .bbp-reply-content {
+	text-align: right
+}
+.post-format {
+	float: right;
+	margin-right: 0;
+	margin-left: 30px;
+}
+.countdown li {
+	border-right: 1px solid #DFDFDF;
+	border-left: 0
+}
+.countdown li:first-child {
+	border-right: 0
+}
+.shopping_bag {
+	float: left
+}
+.header_bag {
+	margin: 0 10px 0 0
+}
+.woo-title .filter_wrapper, .view_cart_mini {
+	left: 0;
+	right: auto
+}
+.woo-title .filter_wrapper .woocommerce-ordering:before, .pa_selection:before {
+	left: 14px;
+	right: auto
+}
+#amount, .cart_list .cart_list_product_title {
+	float: right;
+	text-align:right;
+	direction:ltr;
+}
+.cart_list .cart_list_product_title a{float:right;direction:rtl}
+#loginform #login-button, #filter_button {
+	float: left
+}
+.widget .list li a span, .cart_list .price_remover, #contactForm #sendMessage, #sendOrder {
+	float: left
+}
+.view_cart:before {
+	left: 17px;
+	right: auto
+}
+.view_cart{float:left}
+.checkout table.shop_table tfoot th, .checkout .woocommerce table.shop_table tfoot th {
+	text-align: left;
+	padding: 0 0 0 24px
+}
+.header_v2 .sf-menu {
+	float: left !important;
+	margin: 40px 0 0 0 !important
+}
+.co-date span:not(:last-child):after {
+	left: -15px;
+	right: auto
+}
+.header_v4 .sf-menu {
+	float: none !important;
+	margin: 0 auto !important;
+	display: table;
+	text-align: right
+}
+.header_v4 .sf-menu li li {
+	text-align: right
+}
+.info span {
+	margin: 0 0 0 10px;
+}
+#LandingPage .header_v2 .sf-menu {
+	margin: 14px 0 0 -20px !important
+}
+.sf-menu ul{width:172px}
+.sf-menu ul li .subarrow{float:left}
+
+.services.sb1 h3 {
+    border-left:none;
+    border-right: 1px solid #ccc;
+    float: right;
+    padding: 0 15px 0 0;
+}
+
+.ui-accordion-header-icon {
+    left: 11px !important;
+	right:auto !important;
+    top: 13px !important;
+}
+
+
+.wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header a {
+    padding-left: 21px;
+    padding-right: 3px;
+}
+
+.owl-carousel.nav_titlebar .owl-controls .owl-nav .owl-next {
+    left: 0;
+    right: auto;
+}
+
+.owl-carousel.nav_titlebar .owl-controls .owl-nav .owl-prev {
+    left: 15px;
+    right: auto;
+}
+
+.testimonials .flex-direction-nav .flex-next {
+    left: 15px;
+    right: auto;
+}
+.testimonials .flex-direction-nav .flex-prev {
+    left: 0;
+    right: auto;
+}
+
+.tabs-content, .wpb_tab {border-radius: 4px 0 4px 4px;}
+
+.wpb_tabs_nav li:first-child a {margin: 0 0 -1px !important;}
+.wpb_tabs_nav li:last-child a {border-left:1px solid #ddd}
+.wpb_tabs .wpb_tabs_nav li {
+    float: right;
+    margin: 0 0 0 -1px !important;
+}
+
+.wpb_tabs .wpb_tabs_nav li {float: right !important;}
+
+.tabs li a, .wpb_tabs_nav li a {margin: 0 0 -1px !important}
+
+
+.foot-menu {float:left}
+.copyright {float:right}
+
+.widget li a:before{
+	float:right;
+	margin-left:5px;
+	content:"\f0d9";
+	margin-right:0;
+}
+.tabs-content li a:before,
+.recent-portfolio li a:before{
+	content:"";
+	}
+
+.recent-portfolio {
+    direction: ltr;
+}
+.big-slider .flex-direction-nav .flex-next:before {border-width:0}
+.big-slider .flex-direction-nav .flex-prev:before {
+    border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #575757;
+    border-style: solid;
+    border-width: 10px 0 10px 10px;
+    content: "";
+    height: 0;
+    left: 1px;
+    position: absolute;
+    top: -20px;
+    transform: rotate(360deg);
+    width: 0;
+}
+
+.big-slider .flex-direction-nav .flex-prev {
+    border-radius:0 !important;
+    left: -10px !important;
+	right:auto !important;
+}
+
+.big-slider .flex-direction-nav .flex-next {
+    border-left: 1px solid rgba(236, 236, 236, 0.3);
+    left: 25px !important;
+    right: auto !important;
+}
+
+
+.big-slider h3,.big-slider p{right:5%;left:auto}
+
+
+.projectslider .flex-direction-nav{
+    left: 135px;
+    right: auto;
+}
+
+.thumb-medium .projectslider .flex-direction-nav{
+    left: 120px;
+    bottom:0;
+}
+
+.thumb-small .projectslider .flex-direction-nav{
+    left: 105px;
+    bottom:-12px;
+}
+
+.service-i .sb-desc,.service-i .circle-icon{float:right}
+.service-i .circle-icon{margin:auto 0 auto 10px}
+
+.wpcf7 input, .wpcf7 textarea, .wpcf7 select{float:right}
+
+sb-slider h3 {
+    font-size: 22px;
+    padding: 15px 20px;
+}
+
+.sb-slider h3 span {
+    font-size: 13px;
+    padding: 7px 0 5px;
+}
+.wpb_button i.icon {
+    margin-left: 0;
+    margin-right: 5px;
+}
+
+.wpb_btn-large i.icon {
+    margin-left: 0;
+    margin-right: 9px;
+}
+
+
+ul.newst li{text-align: left;}
+ul.newst li span{direction: ltr;float: left;margin-right: 10px;}
+
+
+.from-blog .detailes {
+    direction: rtl;
+    text-align: right;
+}
+
+.widget_product_search input[type="submit"],
+.widget input[type="submit"], .footer_widget input[type="submit"] {
+    left: 10px;
+    right: auto;
+}
+
+.title-icon {
+    padding-left: 6px;
+	padding-right:0;
+}
+
+.vc_progress_bar .vc_single_bar .vc_bar{left:auto;right:0}
+
+.kwick_caption h4{float:right}
+
+.owl-carousel .owl-item img {
+    display: block;
+}
+
+.wpcf7 p{text-align:right}
+
+.sf-menu li.submenu_2col ul{left:auto !important;right:-120px !important}
+.sf-menu li.submenu_3col ul{left:auto !important;right:-210px !important}
+.sf-menu li.submenu_4col ul{left:auto !important;right:-300px !important}
+
+.mi { margin-right: 0 !important; margin-left: 4px !important }
+.mid { margin-right: 0px !important; margin-left: 8px !important }
+.mii { margin-left: 0px !important; margin-right: 4px !important }
+.miid { margin-left: 0px !important; margin-right: 8px !important }
+
+.mt { margin-top: 20px !important }
+.mtt { margin-top: 30px !important }
+.mtf { margin-top: 40px !important }
+.mts { margin-top: 70px !important }
+
+.mb { margin-bottom: 20px !important }
+.mbt { margin-bottom: 30px !important }
+.mbf { margin-bottom: 40px !important }
+.mbs { margin-bottom: 70px !important  }
+
+.fll { float: left; margin: 0 20px 10px 0 !important }
+.flr { float: right; margin: 0 0 10px 20px !important }
+.righter {float: right !important}
+.lefter {float: left !important}
