@@ -2,357 +2,400 @@
 
 /* COR PALAZZO #B9BD17 */
 
-* {margin:0; padding:0; list-style-type:none; border:0; }
-body {background-color:#000; }
+* {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	border: 0;
+}
+
+body {
+	background-color: #000;
+}
 
 /* CSS RESET */
 
 /* CSS SITE PALAZZO */
 
 #header-container {
-	width:100%;
-	height:200px;
-	margin-left:auto;
-	margin-right:auto;
-	background-color:#000;
+	width: 100%;
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #000;
 }
+
 #header {
-	background-color:#B9BD17;
-	width:800px;
-	height:200px;
-	margin-left:auto;
-	margin-right:auto;
+	background-color: #B9BD17;
+	width: 800px;
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
 }
+
 #header-logo {
-	width:300px;
-	height:100px;
-	background-image:url(img/logo/palazzo_logo_novo.png);
-	background-repeat:no-repeat;
-	margin:20px 0 0 0;
-	float:left;
-	margin-left:35px;
+	width: 300px;
+	height: 100px;
+	background-image: url(img/logo/palazzo_logo_novo.png);
+	background-repeat: no-repeat;
+	margin: 20px 0 0 0;
+	float: left;
+	margin-left: 35px;
 }
-	
+
 #menu {
-	width:750px;
-	height:54px;
-	float:left;
-	margin-top:28px;
-	margin-left:23px;
+	width: 750px;
+	height: 54px;
+	float: left;
+	margin-top: 28px;
+	margin-left: 23px;
 
 }
+
 #menu ul {
-	margin:0; 
-	padding:0; 
+	margin: 0;
+	padding: 0;
 }
+
 #menu li {
-	list-style-type:none; 
-	float:left; 
-	width:150px; 
-	display:block; 
-	line-height:40px; 
-	text-align:center;
-	height:52px; 
+	list-style-type: none;
+	float: left;
+	width: 150px;
+	display: block;
+	line-height: 40px;
+	text-align: center;
+	height: 52px;
 }
+
 #menu a {
-	text-decoration:none; 
-	color:#FFFFFF; 
-	display:block; 
-	line-height:76px; 
-	height:52px;
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:14px;
-	transition:background-color 0.5s ease-out;
-	
- } 
-#menu li a:hover {
-	display:block; 
-	color:#FFF; 
-	line-height:76px; 
-	background-color:#C3C73A;
-	filter:alpha(opacity=10s0);opacity:9;
+	text-decoration: none;
+	color: #FFFFFF;
+	display: block;
+	line-height: 76px;
+	height: 52px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	transition: background-color 0.5s ease-out;
 
-
- }
-#corpo-container {
-	width:100%;
-	height:460px;
-	margin-left:auto;
-	margin-right:auto;
-	background-color:#B9BD17;
 }
+
+#menu li a:hover {
+	display: block;
+	color: #FFF;
+	line-height: 76px;
+	background-color: #C3C73A;
+	filter: alpha(opacity=10s0);
+	opacity: 9;
+
+
+}
+
+#corpo-container {
+	width: 100%;
+	height: 460px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #B9BD17;
+}
+
 #corpo {
-	width:100%;
-	height:460px;
-	margin-left:auto;
-	margin-right:auto;
-	background-color:#B9BD17;
+	width: 100%;
+	height: 460px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #B9BD17;
 }
 
 #banner {
-	width:100%;
-	height:460px;	
-	margin-left:auto;
-	margin-right:auto;
+	width: 100%;
+	height: 460px;
+	margin-left: auto;
+	margin-right: auto;
 }
+
 #galeria {
-	background-image:url(img/bg/bg-portifolio.fw.png);
-	background-repeat:no-repeat;
-	padding-top:2px;
+	background-image: url(img/bg/bg-portifolio.fw.png);
+	background-repeat: no-repeat;
+	padding-top: 2px;
 }
+
 #pagina-container {
-	width:800px;
-	height:460px;
-	margin-left:auto;
-	margin-right:auto;
-	background-image:url(img/bg/fundo.jpg);
-	background-repeat:no-repeat;
+	width: 800px;
+	height: 460px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(img/bg/fundo.jpg);
+	background-repeat: no-repeat;
 }
+
 #pagina {
-	width:570px;
-	height:350px;
-	margin-left:auto;
-	margin-right:auto;
-	padding-top:53px;
+	width: 570px;
+	height: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 53px;
 
 }
+
 #pagina p {
-	color:#FFF;
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:14px;
-	text-align:justify;
-	padding-top:20px;
-	padding-left:40px;
-	padding-right:40px;
-}
-#pagina h2 {
-	color:#FFF;
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:18px;;
-	text-align:center;
-	padding-top:27px;
-	padding-left:20px;
-	padding-right:20px;
-}
-#pagina h1 {
-	color:#FFF;
+	color: #FFF;
 	font-family: Arial, Helvetica, sans-serif;
-	font-size:18px;
-	text-align:center;
-	padding-top:27px;
-	padding-left:20px;
-	padding-right:20px;
+	font-size: 14px;
+	text-align: justify;
+	padding-top: 20px;
+	padding-left: 40px;
+	padding-right: 40px;
 }
+
+#pagina h2 {
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	;
+	text-align: center;
+	padding-top: 27px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#pagina h1 {
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	padding-top: 27px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
 #servicos-container {
-	width:800px;
-	height:460px;
-	margin-left:auto;
-	margin-right:auto;
-	background-image:url(img/bg/fundo_servicos.jpg);
-	background-repeat:no-repeat;
+	width: 800px;
+	height: 460px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(img/bg/fundo_servicos.jpg);
+	background-repeat: no-repeat;
 }
+
 #servicos {
-	width:700px;
-	height:350px;
-	margin-left:auto;
-	margin-right:auto;
-	padding-top:53px;
+	width: 700px;
+	height: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 53px;
 }
+
 #servicos_bg {
-	width:800px;
-	height:460px;
-	margin-left:auto;
-	margin-right:auto;
+	width: 800px;
+	height: 460px;
+	margin-left: auto;
+	margin-right: auto;
 	background-image: url(img/bg/bg_servicos.png);
-	background-repeat:no-repeat;
-	
+	background-repeat: no-repeat;
+
 }
+
 #servicos-left {
-	width:305px;
-	height:350px;
-	float:left;
-	margin-left:30px;
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:11px;
-	color:#FFF;
-	text-align:left;
-	margin-top:15px;
+	width: 305px;
+	height: 350px;
+	float: left;
+	margin-left: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+	text-align: left;
+	margin-top: 15px;
 }
+
 #servicos-left h2 {
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:11px;
-	color:#B9BD17;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #B9BD17;
 }
+
 #servicos-right h2 {
-	font-family:Arial, Helvetica, sans-serif;
-	font-weight:lighter;
-	font-size:18px;
-	color:#FFFFFF;
-	line-height:35px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: lighter;
+	font-size: 18px;
+	color: #FFFFFF;
+	line-height: 35px;
 }
-#servicos-right h2 a{
-	font-family:Arial, Helvetica, sans-serif;
-	font-weight:lighter;
-	font-size:17px;
-	color:#FFFFFF;
-	line-height:37px;
+
+#servicos-right h2 a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: lighter;
+	font-size: 17px;
+	color: #FFFFFF;
+	line-height: 37px;
 }
-#servicos-right h2 a:hover{
-	font-family:Arial, Helvetica, sans-serif;
-	font-weight:lighter;
-	font-size:17px;
-	color:#B9BD17;
-	line-height:37px;
+
+#servicos-right h2 a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: lighter;
+	font-size: 17px;
+	color: #B9BD17;
+	line-height: 37px;
 }
+
 #servicos-right {
-	width:305px;
-	height:350px;
-	float:right;
-	margin-right:50px;
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:11px;
-	color:#FFF;
-	text-align:left;
-	margin-top:8%;
-	}
+	width: 305px;
+	height: 350px;
+	float: right;
+	margin-right: 50px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+	text-align: left;
+	margin-top: 8%;
+}
+
 #contato {
-	width:800px;
-	height:460px;
-	margin-left:auto;
-	margin-right:auto;
-	background-image:url(img/bg/bg_contato.jpg) ;
-	background-repeat:no-repeat;
+	width: 800px;
+	height: 460px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(img/bg/bg_contato_novo.jpg);
+	background-repeat: no-repeat;
 }
+
 #footer-container {
-	width:100%;
-	height:100px;
-	background-color:#000;
+	width: 100%;
+	height: 100px;
+	background-color: #000;
 }
+
 #footer {
-	width:800px;
-	height:100px;
-	margin-left:auto;
-	margin-right:auto;
+	width: 800px;
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
 }
+
 #faixa {
-	width:800px;
-	height:100px;
-	margin-left:auto;
-	margin-right:auto;
-	background-color:#B9BD17;
+	width: 800px;
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #B9BD17;
 }
+
 #faixa h2 {
-	line-height:100px;
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:10px;
-	text-align:center;
-	color:#FFF;
+	line-height: 100px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-align: center;
+	color: #FFF;
 }
+
 #som {
-	width:800px;
-	height:28px;
-	margin-left:auto;
-	margin-right:auto;
-	background-color:#000;
+	width: 800px;
+	height: 28px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #000;
 }
 
 /* PAGINAS */
 
 #corporativo {
-	width:800px;
-	height:460px;
-	margin-left:auto;
-	margin-right:auto;
-	background-image:url(pagina/corporativo/bg_corporativo.png);
-	background-repeat:no-repeat;
-	
+	width: 800px;
+	height: 460px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(pagina/corporativo/bg_corporativo.png);
+	background-repeat: no-repeat;
+
 }
+
 #designe-editorial {
-	width:800px;
-	height:460px;
-	margin-left:auto;
-	margin-right:auto;
-	background-image:url(pagina/desgin-editorial/bg_design-editorial.png);
-	background-repeat:no-repeat;
-	
+	width: 800px;
+	height: 460px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(pagina/desgin-editorial/bg_design-editorial.png);
+	background-repeat: no-repeat;
+
 }
+
 #digital {
-	width:800px;
-	height:460px;
-	margin-left:auto;
-	margin-right:auto;
-	background-image:url(pagina/digital/bg_digital.png);
-	background-repeat:no-repeat;
-	
+	width: 800px;
+	height: 460px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(pagina/digital/bg_digital.png);
+	background-repeat: no-repeat;
+
 }
+
 #embalagem {
-	width:800px;
-	height:460px;
-	margin-left:auto;
-	margin-right:auto;
-	background-image:url(pagina/embalagens/bg_embalagens.png);
-	background-repeat:no-repeat;
-	
+	width: 800px;
+	height: 460px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(pagina/embalagens/bg_embalagens.png);
+	background-repeat: no-repeat;
+
 }
 
 #identidade-visual {
-	width:800px;
-	height:460px;
-	margin-left:auto;
-	margin-right:auto;
-	background-image:url(pagina/identidade-visual/bg_identidade-visual.png);
-	background-repeat:no-repeat;
-	
+	width: 800px;
+	height: 460px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(pagina/identidade-visual/bg_identidade-visual.png);
+	background-repeat: no-repeat;
+
 }
 
 #impressos {
-	width:800px;
-	height:460px;
-	margin-left:auto;
-	margin-right:auto;
-	background-image:url(pagina/impressos/bg_impressos.png);
-	background-repeat:no-repeat;
-	
+	width: 800px;
+	height: 460px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(pagina/impressos/bg_impressos.png);
+	background-repeat: no-repeat;
+
 }
+
 #planejamento-estrategico {
-	width:800px;
-	height:460px;
-	margin-left:auto;
-	margin-right:auto;
-	background-image:url(pagina/planejamento-estrategico/bg_planejamento-estrategico.png);
-	background-repeat:no-repeat;
-	
+	width: 800px;
+	height: 460px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(pagina/planejamento-estrategico/bg_planejamento-estrategico.png);
+	background-repeat: no-repeat;
+
 }
+
 #promocional {
-	width:800px;
-	height:460px;
-	margin-left:auto;
-	margin-right:auto;
-	background-image:url(pagina/promocional/bg_promocional.png);
-	background-repeat:no-repeat;
-	
+	width: 800px;
+	height: 460px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(pagina/promocional/bg_promocional.png);
+	background-repeat: no-repeat;
+
 }
+
 #propaganda {
-	width:800px;
-	height:460px;
-	margin-left:auto;
-	margin-right:auto;
-	background-image:url(pagina/propaganda/bg_propaganda.png);
-	background-repeat:no-repeat;
-	
+	width: 800px;
+	height: 460px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(pagina/propaganda/bg_propaganda.png);
+	background-repeat: no-repeat;
+
 }
+
 #agencias {
-	width:800px;
-	height:460px;
-	margin-left:auto;
-	margin-right:auto;
-	background-image:url(img/bg/bg_agencia.png);
-	background-repeat:no-repeat;
-	
+	width: 800px;
+	height: 460px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(img/bg/bg_agencia.png);
+	background-repeat: no-repeat;
+
 }
-	
+
 
 /* CSS SITE PALAZZO */
-
-
-
