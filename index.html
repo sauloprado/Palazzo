@@ -1,173 +1,206 @@
-
 <!doctype html>
 <html>
+
 <head>
-<meta charset="utf-8">
-<meta name="title" content="Palazzo Publicidade e Propaganda"/>
-<meta name="description" content="Palazzo Publicidade e Propaganda - Index">
-<meta name="keywords" content="Palazzo, Publicidade, Propaganda, IDENTIDADE VISUAL, DESIGN EDITORIAL, PROMOCIONAL, CORPORATIVO, PROPAGANDA, PLANEJAMENTO ESTRATÉGICO, IMPRESSOS,  DIGITAL, EMBALAGENS ">
-<meta name="author" content="Palazzo Publicidade e Propaganda">
-<meta name="geography" content="Campinas São Paulo" />
-<meta name="robots" content="ALL" />
-<meta name="language" content="pt-br" />
-<meta name="location" content="São Paulo, Brazil" />
-<title>Palazzo Publicidade e Propaganda</title>
-<link href="style.css" rel="stylesheet" type="text/css">
+	<meta charset="utf-8">
+	<meta name="title" content="Palazzo Publicidade e Propaganda" />
+	<meta name="description" content="Palazzo Publicidade e Propaganda - Index">
+	<meta name="keywords"
+		content="Palazzo, Publicidade, Propaganda, IDENTIDADE VISUAL, DESIGN EDITORIAL, PROMOCIONAL, CORPORATIVO, PROPAGANDA, PLANEJAMENTO ESTRATÉGICO, IMPRESSOS,  DIGITAL, EMBALAGENS ">
+	<meta name="author" content="Palazzo Publicidade e Propaganda">
+	<meta name="geography" content="Campinas São Paulo" />
+	<meta name="robots" content="ALL" />
+	<meta name="language" content="pt-br" />
+	<meta name="location" content="São Paulo, Brazil" />
+	<title>Palazzo Publicidade e Propaganda</title>
+	<link href="style.css" rel="stylesheet" type="text/css">
 
-<!-- GOOGLE ANALÍTICO -->
+	<!-- GOOGLE ANALÍTICO -->
 
-<!-- GOOGLE ANALÍTICO -->
+	<!-- GOOGLE ANALÍTICO -->
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140449650-1"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140449650-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
 
-gtag('config', 'UA-140449650-1');
-</script>
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
 
-<!-- GOOGLE ANALÍTICO -->
+		gtag('config', 'UA-140449650-1');
+	</script>
 
-<!-- GOOGLE ANALÍTICO -->
+	<!-- GOOGLE ANALÍTICO -->
 
-<!-- SLIDE -->
+	<!-- GOOGLE ANALÍTICO -->
 
-<script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>
-		<script src="js/jquery.carouFredSel-6.0.4-packed.js" type="text/javascript"></script>
-		<script type="text/javascript">
-			$(function() {
-				var _center = {
-					width: 800,
-					height: 460,
-					marginLeft: 0,
-					marginTop: 0,
-					marginRight: 0
-				};
-				var _left = {
-					width: 350,
-					height: 220,
-					marginLeft: 0,
-					marginTop: 125,
-					marginRight: -150
-				};
-				var _right = {
-					width: 350,
-					height: 220,
-					marginLeft: -150,
-					marginTop: 125,
-					marginRight: 0
-				};
-				var _outLeft = {
-					width: 150,
-					height: 100,
-					marginLeft: 150,
-					marginTop: 200,
-					marginRight: -200
-				};
-				var _outRight = {
-					width: 150,
-					height: 100,
-					marginLeft: -200,
-					marginTop: 200,
-					marginRight: 50
-				};
-				$('#carousel').carouFredSel({
-					width: 1200,
-					height: 460,
-					align: false,
-					items: {
-						visible: 3,
-						width: 100
-					},
-					scroll: {
-						items: 1,
-						duration: 800,
-						onBefore: function( data ) {
-							data.items.old.eq( 0 ).animate(_outLeft);
-							data.items.visible.eq( 0 ).animate(_left);
-							data.items.visible.eq( 1 ).animate(_center);
-							data.items.visible.eq( 2 ).animate(_right).css({ zIndex: 1 });
-							data.items.visible.eq( 2 ).next().css(_outRight).css({ zIndex: 0 });
+	<!-- SLIDE -->
 
-							setTimeout(function() {
-								data.items.old.eq( 0 ).css({ zIndex: 1 });
-								data.items.visible.eq( 0 ).css({ zIndex: 2 });
-								data.items.visible.eq( 1 ).css({ zIndex: 3 });
-								data.items.visible.eq( 2 ).css({ zIndex: 2 });
-							}, 200);
-						}
+	<script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>
+	<script src="js/jquery.carouFredSel-6.0.4-packed.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		$(function () {
+			var _center = {
+				width: 800,
+				height: 460,
+				marginLeft: 0,
+				marginTop: 0,
+				marginRight: 0
+			};
+			var _left = {
+				width: 350,
+				height: 220,
+				marginLeft: 0,
+				marginTop: 125,
+				marginRight: -150
+			};
+			var _right = {
+				width: 350,
+				height: 220,
+				marginLeft: -150,
+				marginTop: 125,
+				marginRight: 0
+			};
+			var _outLeft = {
+				width: 150,
+				height: 100,
+				marginLeft: 150,
+				marginTop: 200,
+				marginRight: -200
+			};
+			var _outRight = {
+				width: 150,
+				height: 100,
+				marginLeft: -200,
+				marginTop: 200,
+				marginRight: 50
+			};
+			$('#carousel').carouFredSel({
+				width: 1200,
+				height: 460,
+				align: false,
+				items: {
+					visible: 3,
+					width: 100
+				},
+				scroll: {
+					items: 1,
+					duration: 800,
+					onBefore: function (data) {
+						data.items.old.eq(0).animate(_outLeft);
+						data.items.visible.eq(0).animate(_left);
+						data.items.visible.eq(1).animate(_center);
+						data.items.visible.eq(2).animate(_right).css({
+							zIndex: 1
+						});
+						data.items.visible.eq(2).next().css(_outRight).css({
+							zIndex: 0
+						});
+
+						setTimeout(function () {
+							data.items.old.eq(0).css({
+								zIndex: 1
+							});
+							data.items.visible.eq(0).css({
+								zIndex: 2
+							});
+							data.items.visible.eq(1).css({
+								zIndex: 3
+							});
+							data.items.visible.eq(2).css({
+								zIndex: 2
+							});
+						}, 200);
 					}
-				});
-				$('#carousel').children().eq( 0 ).css(_left).css({ zIndex: 2 });
-				$('#carousel').children().eq( 1 ).css(_center).css({ zIndex: 3 });
-				$('#carousel').children().eq( 2 ).css(_right).css({ zIndex: 2 });
-				$('#carousel').children().eq( 3 ).css(_outRight).css({ zIndex: 1 });
+				}
 			});
-		</script>
-		<style type="text/css">
-			#wrapper {
-				width: 1200px;
-				height: 460px;
-				margin: 0 0 0 -600px;
-				position: absolute;
-				left: 50%;
-			}
-			#carousel img {
-				display: block;
-				float: left;
-				border: none;
-				position: relative;
-			}
+			$('#carousel').children().eq(0).css(_left).css({
+				zIndex: 2
+			});
+			$('#carousel').children().eq(1).css(_center).css({
+				zIndex: 3
+			});
+			$('#carousel').children().eq(2).css(_right).css({
+				zIndex: 2
+			});
+			$('#carousel').children().eq(3).css(_outRight).css({
+				zIndex: 1
+			});
+		});
+	</script>
+	<style type="text/css">
+		#wrapper {
+			width: 1200px;
+			height: 460px;
+			margin: 0 0 0 -600px;
+			position: absolute;
+			left: 50%;
+		}
 
-		</style>
+		#carousel img {
+			display: block;
+			float: left;
+			border: none;
+			position: relative;
+		}
+	</style>
 
 
-<!-- SLIDE -->
+	<!-- SLIDE -->
 
 </head>
 
 <body>
-        <header id="header-container"><!-- DIV CONTAINER HEADER -->
-        <header id="header"><!-- HEADER -->
-        		<header id="header-logo"></header><!-- DIV HEADER LOGO -->
-                <nav id="menu"><!-- MENU -->
-                <ul>
-                	<li><a href="index.html">home</a></li>
-                    <li><a href="agencia.html">agência</a></li>
-                    <li><a href="portifolio.html">portifólio</a></li>
-                    <li><a href="servicos.html">serviços</a></li>
-                    <li><a href="contato.html">contato</a></li>
-                </ul>
-                </nav><!-- MENU -->
-        </header><!-- FIM DIV HEADER -->
-        </header><!-- FIM DIV CONTAINER HEADER -->
-        
-        <section id="corpo-container"><!-- CORPO CONTAINER -->
-        <section id="corpo"><!-- CORPO DO SITE -->
-        <section id="banner"><!-- BANNER -->
-            <div id="wrapper">
-			<div id="carousel">
-			
-                <img src="img/home_2020/logo_empresa.png" width="800" height="460" alt="Palazzo Publicidade e Propaganda" />
-                <img src="img/home_2020/palazzo_10anos.png" width="800" height="460" alt="Palazzo Publicidade e Propaganda" /> 
-                <img src="img/home_2020/site_emprea.png" width="800" height="460" alt="Palazzo Publicidade e Propaganda" />	
-		
-                  
-            </div>
-			</div>
-        </section><!-- FIM DIV BANNER -->
-        </section><!-- FIM DIV BANNER -->
-        </section><!-- FIM DIV CORPO CONTAINER -->
-        
-        <footer id="footer-container"><!-- DIV FOOTER -->
-        <footer id="footer">
-        
-        <footer id="faixa">
-        <h2>TODOS OS DIREITOS RESERVADOS • PALAZZO PUBLICIDADE E PROPAGANDA • CAMPINAS • 2020</h2>
-        </footer>
-        </footer>
-        </footer><!-- FIM DIV FOOTER -->
+	<header id="header-container">
+		<!-- DIV CONTAINER HEADER -->
+		<header id="header">
+			<!-- HEADER -->
+			<header id="header-logo"></header><!-- DIV HEADER LOGO -->
+			<nav id="menu">
+				<!-- MENU -->
+				<ul>
+					<li><a href="index.html">home</a></li>
+					<li><a href="agencia.html">agência</a></li>
+					<li><a href="portifolio.html">portifólio</a></li>
+					<li><a href="servicos.html">serviços</a></li>
+					<li><a href="contato.html">contato</a></li>
+				</ul>
+			</nav><!-- MENU -->
+		</header><!-- FIM DIV HEADER -->
+	</header><!-- FIM DIV CONTAINER HEADER -->
+
+	<section id="corpo-container">
+		<!-- CORPO CONTAINER -->
+		<section id="corpo">
+			<!-- CORPO DO SITE -->
+			<section id="banner">
+				<!-- BANNER -->
+				<div id="wrapper">
+					<div id="carousel">
+
+						<img src="img/home_2020/logo_empresa.png" width="800" height="460"
+							alt="Palazzo Publicidade e Propaganda" />
+						<img src="img/home_2020/palazzo_10anos.png" width="800" height="460"
+							alt="Palazzo Publicidade e Propaganda" />
+						<img src="img/home_2020/site_emprea.png" width="800" height="460"
+							alt="Palazzo Publicidade e Propaganda" />
+
+					</div>
+				</div>
+			</section><!-- FIM DIV BANNER -->
+		</section><!-- FIM DIV BANNER -->
+	</section><!-- FIM DIV CORPO CONTAINER -->
+
+	<footer id="footer-container">
+		<!-- DIV FOOTER -->
+		<footer id="footer">
+
+			<footer id="faixa">
+				<h2>TODOS OS DIREITOS RESERVADOS • PALAZZO PUBLICIDADE E PROPAGANDA • CAMPINAS • 2020</h2>
+			</footer>
+		</footer>
+	</footer><!-- FIM DIV FOOTER -->
 </body>
+
 </html>
-  
