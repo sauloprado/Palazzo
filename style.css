@@ -344,10 +344,11 @@ body {background-color:#000; }
 #agencias {
 	width:800px;
 	height:460px;
-	margin-left:auto;
-	margin-right:auto;
-	background-image:url(img/bg/bg_agencia.png);
+	margin-left: auto;
+	margin-right: auto;;
+	background-image:url(img/bg/bg-agencia-2020.png);
 	background-repeat:no-repeat;
+	background-position: center;
 	
 }
 	
