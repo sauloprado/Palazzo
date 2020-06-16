@@ -220,8 +220,9 @@ body {background-color:#000; }
 	height:460px;
 	margin-left:auto;
 	margin-right:auto;
-	background-image:url(img/bg/bg_contato.jpg) ;
+	background-image:url(img/bg/bg_contato_novo.jpg) ;
 	background-repeat:no-repeat;
+	background-size: contain;
 }
 #footer-container {
 	width:100%;
@@ -346,8 +347,9 @@ body {background-color:#000; }
 	height:460px;
 	margin-left: auto;
 	margin-right: auto;;
-	background-image:url(img/bg/bg-agencia-2020.png);
+	background-image:url(img/bg/fundo_agencia_NOVO.png);
 	background-repeat:no-repeat;
+	background-size: contain;
 	background-position: center;
 	
 }
