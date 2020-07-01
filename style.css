@@ -14,7 +14,7 @@ body {background-color:#000; }
 	height:200px;
 	margin-left:auto;
 	margin-right:auto;
-	background-image: url(img/bg-2020/fundo_01.jpg);
+	background-image: url(img/bg-2020/FUNDO_01.bmp);
 	background-repeat: no-repeat;
 }
 #header {
@@ -228,7 +228,7 @@ body {background-color:#000; }
 #footer-container {
 	width:100%;
 	height:100px;
-	background-image: url(img/bg-2020/fundo_02.jpg);
+	background-image: url(img/bg-2020/fundi_02.bmp)
 	background-repeat: repeat-y;
 }
 #footer {
