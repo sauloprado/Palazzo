@@ -1,7 +1,7 @@
 # 🎨 Projeto Cliente Palazzo Publicidade e Propaganda
 
-## 🧾 Descrição Geral
-Este projeto contém páginas web estruturadas em **HTML** e **CSS**, voltadas para apresentação institucional. Ideal para **agências de publicidade**, **freelancers** ou **profissionais criativos** que desejam uma presença digital elegante e funcional.
+## 🧾 Descrição Geral  
+Este projeto reúne páginas web estruturadas em **HTML** e **CSS**, voltadas para apresentações institucionais. É ideal para **agências de publicidade**, **freelancers** ou **profissionais criativos** que desejam uma presença digital elegante e funcional.
 
 ---
 
@@ -23,16 +23,16 @@ Págnas/
 
 ---
 
-## 🕒 Versionamento e Backup
-Este repositório contém **diversas versões e backups** dos arquivos principais, facilitando a manutenção e a restauração do projeto, quando necessário.
+## 🕒 Versionamento e Backup  
+Este repositório inclui **diversas versões e backups** dos arquivos principais, facilitando a manutenção e a restauração do projeto sempre que necessário.
 
 ---
 
 ## 🚀 Como Utilizar
 
 1. 📥 Clone ou baixe o repositório para sua máquina.
-2. 🌐 Abra `index.html` em um navegador moderno.
-3. 🎨 Personalize o layout pelo arquivo `style.css` conforme necessário.
+2. 🌐 Abra o arquivo `index.html` em um navegador moderno.
+3. 🎨 Personalize o layout por meio do arquivo `style.css`, conforme necessário.
 
 ---
 
@@ -43,10 +43,9 @@ Este repositório contém **diversas versões e backups** dos arquivos principai
 
 ---
 
-## 📬 Contato
-Em caso de dúvidas, feedbacks ou sugestões, acesse a página [`contato.html`](contato.html) ou entre em contato com o desenvolvedor do projeto.
+## 📬 Contato  
+Em caso de dúvidas, sugestões ou feedbacks, fico à disposição. Será um prazer ouvir você, aprender com a troca e agregar ao projeto. 😊
 
 ---
 
 Feito com ❤️ para a **Palazzo Publicidade e Propaganda**.
-
