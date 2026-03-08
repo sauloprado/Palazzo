@@ -1,0 +1,16 @@
+Thumbs.db
+.DS_Store
+
+backups/
+
+palazzo-2026/.next/
+palazzo-2026/node_modules/
+palazzo-2026/.env
+palazzo-2026/*.log
+palazzo-2026/*.db-journal
+
+p2026/.next/
+p2026/node_modules/
+p2026/.env
+p2026/*.log
+p2026/*.db-journal
