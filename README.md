@@ -1,91 +1,101 @@
-# Palazzo
+<p align="center">
+<img src="assets/capa.png" alt="Palazzo Publicidade" width="100%">
+</p>
 
-Repositório oficial do site da Palazzo Publicidade e Propaganda.
+<h1 align="center">Palazzo Publicidade</h1>
+<p align="center"><i>Site institucional em transição do legado (HTML/PHP) para Next.js + Payload CMS</i></p>
 
-Este projeto mantém duas frentes de trabalho no mesmo repositório:
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Payload%20CMS-111111?style=flat-square" alt="Payload CMS">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/status-em%20transi%C3%A7%C3%A3o-F59E0B?style=flat-square" alt="status: em transição">
+</p>
 
-- a base legada do site, feita em HTML, CSS, JavaScript e alguns arquivos PHP
-- uma reestruturação moderna em `palazzo-2026`, usando Next.js + Payload CMS
+## Sumário
 
-## Estrutura do repositório
+- [Sobre](#sobre)
+- [Arquitetura](#arquitetura)
+- [Tecnologias](#tecnologias)
+- [Como executar](#como-executar)
+- [Publicação](#publicação)
+- [Estrutura do repositório](#estrutura-do-repositório)
+- [Autor](#autor)
 
-### Site legado
+## Sobre
 
-Os arquivos na raiz do projeto representam o site antigo ainda utilizável:
+Repositório do site da **Palazzo Publicidade e Propaganda**. Mantém duas frentes no mesmo lugar:
 
-- `index.html`
-- `agencia.html`
-- `servicos.html`
-- `contato.html`
-- `portifolio.html`
-- `style.css`
-- pastas auxiliares como `img/`, `js/`, `scroll/`, `shadowbox/` e `pagina/`
+- **Site legado** — HTML, CSS, JavaScript e PHP, para manutenção imediata e reaproveitamento de conteúdo
+- **`palazzo-2026/`** — a nova versão, com Next.js, TypeScript e Payload CMS, preparada para um fluxo moderno de desenvolvimento e publicação
 
-Essa base é útil para manutenção imediata, correções rápidas e reaproveitamento de conteúdo visual e textual.
+## Arquitetura
 
-### Novo site
+```mermaid
+flowchart LR
+    subgraph Legado
+        L1[index.html · agencia.html<br/>servicos.html · contato.html] --> L2[Hospedagem estática / PHP]
+    end
+    subgraph Nova versão
+        N1[Next.js + TypeScript] --> N2[Payload CMS<br/>/admin]
+        N2 --> N3[(SQLite local<br/>Postgres em produção)]
+    end
+    Legado -. conteúdo reaproveitado .-> N1
+```
 
-A pasta `palazzo-2026/` contém a nova versão do projeto, preparada para um fluxo mais moderno de desenvolvimento e publicação.
+## Tecnologias
 
-Stack principal:
+| Frente | Stack |
+| --- | --- |
+| Legado | HTML, CSS, JavaScript, PHP |
+| Nova versão | Next.js, TypeScript, Payload CMS, pnpm |
+| Banco | SQLite no desenvolvimento, Postgres recomendado em produção |
 
-- Next.js
-- TypeScript
-- Payload CMS
-- pnpm
-- SQLite no ambiente local, com possibilidade de migração para Postgres em produção
-
-## Como rodar o projeto moderno
-
-Entre na pasta do novo site:
+## Como executar
 
 ```bash
 cd palazzo-2026
-```
-
-Instale as dependências:
-
-```bash
 pnpm install
-```
-
-Suba o ambiente de desenvolvimento:
-
-```bash
 pnpm dev
 ```
 
-Endereços esperados:
+| Endereço | O que é |
+| --- | --- |
+| `http://localhost:3000` | Site |
+| `http://localhost:3000/admin` | Painel do Payload CMS |
 
-- site: `http://localhost:3000`
-- admin: `http://localhost:3000/admin`
-
-## Scripts úteis do projeto moderno
-
-- `pnpm dev` inicia o ambiente de desenvolvimento
-- `pnpm build` gera a build de produção
-- `pnpm start` sobe a aplicação compilada
-- `pnpm lint` executa a validação de código
+| Script | Ação |
+| --- | --- |
+| `pnpm dev` | Ambiente de desenvolvimento |
+| `pnpm build` | Build de produção |
+| `pnpm start` | Sobe a aplicação compilada |
+| `pnpm lint` | Validação de código |
 
 ## Publicação
 
-Hoje o repositório pode ser usado de duas formas:
+1. **Legado** — publicar como site estático / PHP tradicional.
+2. **Nova versão** — app em Vercel ou servidor Node, banco Postgres e uploads locais no início (storage externo depois).
 
-1. publicar a base legada como site estático/PHP tradicional
-2. publicar a versão `palazzo-2026` como aplicação moderna
+> A raiz do repositório guarda histórico, backups e materiais de apoio do site antigo; nem tudo faz parte da versão final.
 
-Para a versão moderna, a estratégia recomendada é:
+## Estrutura do repositório
 
-- frontend e app em Vercel ou servidor Node
-- banco em Postgres para produção
-- uploads locais no início ou storage externo depois
+```text
+Palazzo/
+├── palazzo-2026/        # nova versão (Next.js + Payload CMS)
+├── index.html           # site legado
+├── agencia.html
+├── contato.html
+├── portifolio.html
+├── img/ · js/ · pagina/ # recursos do legado
+├── doc/                 # materiais de apoio
+└── assets/capa.png
+```
 
-## Observações
+## Autor
 
-- A raiz do repositório contém histórico, arquivos antigos, backups e materiais de apoio.
-- Nem tudo na raiz faz parte da versão final moderna.
-- O diretório `backups/` pode ser mantido apenas para segurança local e não precisa necessariamente entrar no fluxo de deploy.
+**Saulo Prado** · Analista de Sistemas · Gestão de Ativos de TI, orçamento, automação e dashboards
 
-## Status
-
-O repositório está em transição entre manutenção do site antigo e construção de uma base nova mais escalável.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saulo%20Prado-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulo-prado-ab4a0b96/)
+[![GitHub](https://img.shields.io/badge/GitHub-sauloprado-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sauloprado)
